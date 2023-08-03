@@ -1,0 +1,6 @@
+<locations>
+	<location name="ENGLAND" SMA="10" DSA="15"/>
+	<location name="SCOTLAND" SMA="20" DSA="25"/>
+	<location name="WALES" SMA="30" DSA="35"/>
+	<location name="NORTHERN IRELAND" SMA="40" DSA="45"/>
+</locations>
