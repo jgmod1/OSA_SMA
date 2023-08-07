@@ -1,61 +1,19 @@
 {
-   "rates":[
-         {
-         
-         "oid":":000000F0:00000458:",
-	 "level1":"1 Jan 23 - 31 Jun 23",
-         "level2":"United Kingdom",
-         "level3":"DSA",
-         "result":"£15",
-      },
-      {
-	 "oid":":000000F0:00000458:",
-	 "level1":"1 Jan 23 - 31 Jun 23",
-         "level2":"United Kingdom",
-         "level3":"SMA",
-         "result":"£10",
-      },
-      {
-         
-         "oid":":000000F0:00000458:",
-	 "level1":"1 Jan 23 - 31 Jun 23",
-         "level2":"Denmark",
-         "level3":"SMA",
-         "result":"£20",
-      },
-      {
-
-         "oid":":000000F0:00000458:",
-         "level1":"1 Jan 23 - 31 Jun 23",
-         "level2":"Denmark",
-         "level3":"DSA",
-         "result":"£25",
-      },
-      {
-         "oid":":000000F0:00000458:",
-	 "level1":"1 Jul 23 - Onwards",
-         "level2":"United Kingdom",
-         "level3":"DSA",
-         "result":"£15",
-      },
-      {
-         "oid":":000000F0:00000458:",
-         "level1":"1 Jul 23 - Onwards",
-         "level2":"United Kingdom",
-         "level3":"SMA",
-         "result":"£10",
-      },
-      {
-         "oid":":000000F0:00000458:",
-         "level1":"1 Jul 23 - Onwards",
-         "level2":"Denmark",
-         "level3":"SMA",
-         "result":"£20",
-      },
-      {
-         "oid":":000000F0:00000458:",
-         "level1":"1 Jul 23 - Onwards",
-         "level2":"Denmark",
-         "level3":"DSA",
-         "result":"£25",
-      },
+  "options": [
+    {
+      "value": "option1",
+      "label": "Option 1",
+      "price": 10
+    },
+    {
+      "value": "option2",
+      "label": "Option 2",
+      "price": 20
+    },
+    {
+      "value": "option3",
+      "label": "Option 3",
+      "price": 30
+    }
+  ]
+}
