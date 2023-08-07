@@ -1,25 +1,3638 @@
 {
-"countries": [
-{
-"name": "USA",
-"constants": {
-"SMA": 0.05,
-"OSA": 0.1
-}
-},
-{
-"name": "UK",
-"constants": {
-"SMA": 0.07,
-"OSA": 0.12
-}
-},
-{
-"name": "France",
-"constants": {
-"SMA": 0.06,
-"OSA": 0.11
-}
-}
-]
+  "Albania": {
+    "Currency": "LEK",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 3083.420847465,
+        "SMA": 2312.56563559875
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 3133.462045221,
+        "SMA": 2350.09653391575
+      }
+    },
+    "Difference": 1.62291170201891
+  },
+  "Algeria": {
+    "Currency": "DINAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 5391.390540429,
+        "SMA": 4043.54290532175
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 5618.145771708,
+        "SMA": 4213.609328781
+      }
+    },
+    "Difference": 4.20587656521275
+  },
+  "American Samoa": {
+    "Currency": "USD",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 75.899378472,
+        "SMA": 56.924533854
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 78.537099651,
+        "SMA": 58.90282473825
+      }
+    },
+    "Difference": 3.47528692869741
+  },
+  "Angola": {
+    "Currency": "KWANZA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 42042.362911353,
+        "SMA": 31531.7721835148
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 43880.982711807,
+        "SMA": 32910.7370338552
+      }
+    },
+    "Difference": 4.37325514821978
+  },
+  "Anguilla": {
+    "Currency": "EC$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 258.298344492,
+        "SMA": 193.723758369
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 278.620329111,
+        "SMA": 208.96524683325
+      }
+    },
+    "Difference": 7.86764028974621
+  },
+  "Antigua and Barbuda": {
+    "Currency": "EC$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 201.533154492,
+        "SMA": 151.149865869
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 204.594489111,
+        "SMA": 153.44586683325
+      }
+    },
+    "Difference": 1.51902282615315
+  },
+  "Argentina": {
+    "Currency": "PESO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 5029.130839752,
+        "SMA": 3771.848129814
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 8023.781202759,
+        "SMA": 6017.83590206925
+      }
+    },
+    "Difference": 59.5460817868615
+  },
+  "Armenia": {
+    "Currency": "DRAM",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 18741.47756778,
+        "SMA": 14056.108175835
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 20107.794773835,
+        "SMA": 15080.8460803763
+      }
+    },
+    "Difference": 7.29033877459024
+  },
+  "Australia": {
+    "Currency": "AUS $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 110.183636967,
+        "SMA": 82.63772772525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 113.311977144,
+        "SMA": 84.983982858
+      }
+    },
+    "Difference": 2.83920576876304
+  },
+  "Austria": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 65.032719912,
+        "SMA": 48.774539934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 65.6365935,
+        "SMA": 49.227445125
+      }
+    },
+    "Difference": 0.928568863207872
+  },
+  "Azerbaijan": {
+    "Currency": "MANAT",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 70.796008152,
+        "SMA": 53.097006114
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 74.64632946,
+        "SMA": 55.984747095
+      }
+    },
+    "Difference": 5.43861357229819
+  },
+  "Bahamas": {
+    "Currency": "BAHAMA $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 107.643758472,
+        "SMA": 80.732818854
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 117.832419651,
+        "SMA": 88.37431473825
+      }
+    },
+    "Difference": 9.4651666976588
+  },
+  "Bahrain": {
+    "Currency": "DINAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 33.342479391,
+        "SMA": 25.00685954325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 36.079032294,
+        "SMA": 27.0592742205
+      }
+    },
+    "Difference": 8.20740674653808
+  },
+  "Bangladesh": {
+    "Currency": "TAKA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 5570.045356683,
+        "SMA": 4177.53401751225
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 6181.668378354,
+        "SMA": 4636.2512837655
+      }
+    },
+    "Difference": 10.9805752467916
+  },
+  "Barbados": {
+    "Currency": "BARBADOS $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 200.633140455,
+        "SMA": 150.47485534125
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 206.240899302,
+        "SMA": 154.6806744765
+      }
+    },
+    "Difference": 2.79503118691291
+  },
+  "Belarus": {
+    "Currency": "ROUBLE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 68.052188658,
+        "SMA": 51.0391414935
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 81.492819063,
+        "SMA": 61.11961429725
+      }
+    },
+    "Difference": 19.7504748488643
+  },
+  "Belgium": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 73.905549912,
+        "SMA": 55.429162434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 75.3177735,
+        "SMA": 56.488330125
+      }
+    },
+    "Difference": 1.91084917124837
+  },
+  "Belize": {
+    "Currency": "BZ$ ",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 126.017680455,
+        "SMA": 94.51326034125
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 128.154289302,
+        "SMA": 96.1157169765
+      }
+    },
+    "Difference": 1.69548339509629
+  },
+  "Benin": {
+    "Currency": "CFA Franc",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 33942.408211029,
+        "SMA": 25456.8061582717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 34509.098288649,
+        "SMA": 25881.8237164868
+      }
+    },
+    "Difference": 1.66956355629438
+  },
+  "Bermuda": {
+    "Currency": "BERMUDA $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 119.046248472,
+        "SMA": 89.284686354
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 122.815659651,
+        "SMA": 92.11174473825
+      }
+    },
+    "Difference": 3.16634184393185
+  },
+  "Bolivia": {
+    "Currency": "BOLIVIANO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 298.510685262,
+        "SMA": 223.8830139465
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 306.1689342,
+        "SMA": 229.62670065
+      }
+    },
+    "Difference": 2.56548569820151
+  },
+  "Bosnia": {
+    "Currency": "MARKA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 65.813340654,
+        "SMA": 49.3600054905
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 65.630400588,
+        "SMA": 49.222800441
+      }
+    },
+    "Difference": -0.277968059639733
+  },
+  "Botswana": {
+    "Currency": "PULA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 459.018569919,
+        "SMA": 344.26392743925
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 462.667822248,
+        "SMA": 347.000866686
+      }
+    },
+    "Difference": 0.795011916324853
+  },
+  "Brazil": {
+    "Currency": "REAL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 216.206944695,
+        "SMA": 162.15520852125
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 238.25265105,
+        "SMA": 178.6894882875
+      }
+    },
+    "Difference": 10.1965764263954
+  },
+  "Brunei": {
+    "Currency": "BRUNEI $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 63.344862288,
+        "SMA": 47.508646716
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 66.51975867,
+        "SMA": 49.8898190025
+      }
+    },
+    "Difference": 5.01208190739324
+  },
+  "Bulgaria": {
+    "Currency": "LEV",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 73.495820121,
+        "SMA": 55.12186509075
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 77.478793566,
+        "SMA": 58.1090951745
+      }
+    },
+    "Difference": 5.41931968163989
+  },
+  "Burkina Faso": {
+    "Currency": "CFA Franc",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 26600.640661029,
+        "SMA": 19950.4804957718
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 27992.494418649,
+        "SMA": 20994.3708139867
+      }
+    },
+    "Difference": 5.23240690085755
+  },
+  "Burma": {
+    "Currency": "KYAT",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 55542.080150319,
+        "SMA": 41656.5601127392
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 61739.809114626,
+        "SMA": 46304.8568359695
+      }
+    },
+    "Difference": 11.1586187401219
+  },
+  "Burundi": {
+    "Currency": "BURUNDI FRC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 70662.80112552,
+        "SMA": 52997.10084414
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 73980.89893536,
+        "SMA": 55485.67420152
+      }
+    },
+    "Difference": 4.69567828757023
+  },
+  "Cambodia": {
+    "Currency": "RIEL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 220155,
+        "SMA": 165116.25
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 230070.95,
+        "SMA": 172553.2125
+      }
+    },
+    "Difference": 4.50407667325294
+  },
+  "Cameroon": {
+    "Currency": "CFA Franc",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 34378.489261029,
+        "SMA": 25783.8669457717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 34556.372498649,
+        "SMA": 25917.2793739867
+      }
+    },
+    "Difference": 0.517425987713921
+  },
+  "Canada": {
+    "Currency": "CA$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 104.0923707,
+        "SMA": 78.069278025
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 113.014183857,
+        "SMA": 84.76063789275
+      }
+    },
+    "Difference": 8.57105386014617
+  },
+  "Cape Verde": {
+    "Currency": "x",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Cayman Islands": {
+    "Currency": "Cayman Island $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 82.592315811,
+        "SMA": 61.94423685825
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 83.413016448,
+        "SMA": 62.559762336
+      }
+    },
+    "Difference": 0.993676746972483
+  },
+  "Chad": {
+    "Currency": "CFA Franc",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 37853.424241029,
+        "SMA": 28390.0681807718
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 38031.307478649,
+        "SMA": 28523.4806089868
+      }
+    },
+    "Difference": 0.469926410058292
+  },
+  "Chile": {
+    "Currency": "PESOS",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 44792.256138984,
+        "SMA": 33594.192104238
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 47868.231322149,
+        "SMA": 35901.1734916118
+      }
+    },
+    "Difference": 6.86720305764617
+  },
+  "China": {
+    "Currency": "RENMINBI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 501.207485256,
+        "SMA": 375.905613942
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 503.22533037,
+        "SMA": 377.4189977775
+      }
+    },
+    "Difference": 0.402596763487978
+  },
+  "Colombia": {
+    "Currency": "PESO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 132861.400139262,
+        "SMA": 99646.0501044465
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 134612.069611923,
+        "SMA": 100959.052208942
+      }
+    },
+    "Difference": 1.31766598186232
+  },
+  "Congo ": {
+    "Currency": "XAF",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 36111.734311029,
+        "SMA": 27083.8007332717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 36643.570238649,
+        "SMA": 27482.6776789868
+      }
+    },
+    "Difference": 1.47275099844092
+  },
+  "Congo Dem Republic": {
+    "Currency": "CONGO FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 160229.598800295,
+        "SMA": 120172.199100221
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 173858.251932639,
+        "SMA": 130393.688949479
+      }
+    },
+    "Difference": 8.5057025882779
+  },
+  "Cook Island": {
+    "Currency": "NZ$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 100.101305196,
+        "SMA": 75.075978897
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 99.763059222,
+        "SMA": 74.8222944165
+      }
+    },
+    "Difference": -0.337903660034911
+  },
+  "Costa Rica": {
+    "Currency": "COLON",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 34695.911610273,
+        "SMA": 26021.9337077047
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 36227.764508649,
+        "SMA": 27170.8233814867
+      }
+    },
+    "Difference": 4.41508185627968
+  },
+  "Croatia": {
+    "Currency": "EURO(was KUNA^)",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 341.754635244,
+        "SMA": 256.315976433
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 46.1410935,
+        "SMA": 34.605820125
+      }
+    },
+    "Difference": n/a
+  },
+  "Cuba": {
+    "Currency": "CUBAN PESO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1525.181054217,
+        "SMA": 1143.88579066275
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": X,
+        "SMA": X
+      }
+    },
+    "Difference":  
+  },
+  "Curacao": {
+    "Currency": "ANT GUILDER",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 132.877040892,
+        "SMA": 99.657780669
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 136.0428075789,
+        "SMA": 102.032105684175
+      }
+    },
+    "Difference": 2.38247831653105
+  },
+  "Cyprus": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 58.356699912,
+        "SMA": 43.767524934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 59.3409735,
+        "SMA": 44.505730125
+      }
+    },
+    "Difference": 1.6866505293895
+  },
+  "Czech Republic": {
+    "Currency": "KORUNA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1225.052753142,
+        "SMA": 918.7895648565
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1409.485055115,
+        "SMA": 1057.11379133625
+      }
+    },
+    "Difference": 15.0550497927514
+  },
+  "Denmark": {
+    "Currency": "KRONE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 723.436524282,
+        "SMA": 542.5773932115
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 781.662097461,
+        "SMA": 586.24657309575
+      }
+    },
+    "Difference": 8.04847021468649
+  },
+  "Diego Garcia": {
+    "Currency": "x",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Djibouti": {
+    "Currency": " FRANCS",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 11855.928876984,
+        "SMA": 8891.946657738
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 12272.884211922,
+        "SMA": 9204.6631589415
+      }
+    },
+    "Difference": 3.51685084538116
+  },
+  "Dominica": {
+    "Currency": "x",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Dominican Republic": {
+    "Currency": "DOM PESO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2604.653008902,
+        "SMA": 1953.4897566765
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2805.29515818,
+        "SMA": 2103.971368635
+      }
+    },
+    "Difference": 7.7032199142173
+  },
+  "East Timor": {
+    "Currency": "US$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 51.743978472,
+        "SMA": 38.807983854
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 52.698429651,
+        "SMA": 39.52382223825
+      }
+    },
+    "Difference": 1.84456473426464
+  },
+  "Ecuador": {
+    "Currency": "US$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 64.202078472,
+        "SMA": 48.151558854
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 65.156529651,
+        "SMA": 48.86739723825
+      }
+    },
+    "Difference": 1.48663594966985
+  },
+  "Egypt": {
+    "Currency": "EGYPT £",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 700.767169245,
+        "SMA": 525.57537693375
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 803.665732527,
+        "SMA": 602.74929939525
+      }
+    },
+    "Difference": 14.6837020622502
+  },
+  "El Salvador": {
+    "Currency": "COLON",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 457,
+        "SMA": 342.75
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 466,
+        "SMA": 349.5
+      }
+    },
+    "Difference": 1.96936542669583
+  },
+  "Equatorial Guinea": {
+    "Currency": "XAF",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 42419.251321029,
+        "SMA": 31814.4384907717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 42597.134558649,
+        "SMA": 31947.8509189867
+      }
+    },
+    "Difference": 0.419345537887452
+  },
+  "Eritrea": {
+    "Currency": "NAKFA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 675.157701657,
+        "SMA": 506.36827624275
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 714.263304765,
+        "SMA": 535.69747857375
+      }
+    },
+    "Difference": 5.79206946940327
+  },
+  "Estonia": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 53.012079912,
+        "SMA": 39.759059934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 57.3058335,
+        "SMA": 42.979375125
+      }
+    },
+    "Difference": 8.09957578560889
+  },
+  "Ethiopia": {
+    "Currency": "BIRR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1525.930550631,
+        "SMA": 1144.44791297325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1676.162988702,
+        "SMA": 1257.1222415265
+      }
+    },
+    "Difference": 9.84529984073497
+  },
+  "Falkland Islands": {
+    "Currency": "x",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Fiji": {
+    "Currency": "FIJI $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 109.97300283,
+        "SMA": 82.4797521225
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 113.594901546,
+        "SMA": 85.1961761595
+      }
+    },
+    "Difference": 3.29344350231018
+  },
+  "Finland": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 80.876379912,
+        "SMA": 60.657284934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 85.3698435,
+        "SMA": 64.027382625
+      }
+    },
+    "Difference": 5.5559652804555
+  },
+  "France": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 69.217119912,
+        "SMA": 51.912839934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 71.3045535,
+        "SMA": 53.478415125
+      }
+    },
+    "Difference": 3.01577643024427
+  },
+  "French Polynesia": {
+    "Currency": "XPF",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 10031.376240951,
+        "SMA": 7523.53218071325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 10503.707524167,
+        "SMA": 7877.78064312525
+      }
+    },
+    "Difference": 4.70853920609424
+  },
+  "Gabon": {
+    "Currency": "XAF",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 43856.725861029,
+        "SMA": 32892.5443957717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 44274.765128649,
+        "SMA": 33206.0738464867
+      }
+    },
+    "Difference": 0.953193060842409
+  },
+  "Gambia": {
+    "Currency": "DALASI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1908.180582285,
+        "SMA": 1431.13543671375
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2120.943426273,
+        "SMA": 1590.70756970475
+      }
+    },
+    "Difference": 11.1500371591257
+  },
+  "Georgia": {
+    "Currency": "LARI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 85.625992497,
+        "SMA": 64.21949437275
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 96.550759059,
+        "SMA": 72.41306929425
+      }
+    },
+    "Difference": 12.7587035705107
+  },
+  "Germany": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 63.102189912,
+        "SMA": 47.326642434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 64.7902035,
+        "SMA": 48.592652625
+      }
+    },
+    "Difference": 2.67504755437812
+  },
+  "Ghana": {
+    "Currency": "NEW CEDI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 291.614542998,
+        "SMA": 218.7109072485
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 387.5902257,
+        "SMA": 290.692669275
+      }
+    },
+    "Difference": 32.9118300189364
+  },
+  "Gibraltar": {
+    "Currency": "GI£",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 47.28372,
+        "SMA": 35.46279
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 47.8353,
+        "SMA": 35.876475
+      }
+    },
+    "Difference": 1.16653258246177
+  },
+  "Greece": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 59.688099912,
+        "SMA": 44.766074934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 62.3841735,
+        "SMA": 46.788130125
+      }
+    },
+    "Difference": 4.51693652834469
+  },
+  "Grenada": {
+    "Currency": "EAST CARIB $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 178.918374492,
+        "SMA": 134.188780869
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 183.967299111,
+        "SMA": 137.97547433325
+      }
+    },
+    "Difference": 2.82191509582812
+  },
+  "Guadeloupe": {
+    "Currency": "EUR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 67.971309912,
+        "SMA": 50.978482434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 72.2555535,
+        "SMA": 54.191665125
+      }
+    },
+    "Difference": 6.30301754305846
+  },
+  "Guatemala": {
+    "Currency": "QUETZAL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 464.242319721,
+        "SMA": 348.18173979075
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 487.289584089,
+        "SMA": 365.46718806675
+      }
+    },
+    "Difference": 4.96449017871763
+  },
+  "Guinea": {
+    "Currency": "GUINEA FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 569824.368694716,
+        "SMA": 427368.276521037
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 581945.953466538,
+        "SMA": 436459.465099904
+      }
+    },
+    "Difference": 2.12724927850816
+  },
+  "Guyana": {
+    "Currency": "GUYANESE $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 12194.613185904,
+        "SMA": 9145.959889428
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 12444.11923488,
+        "SMA": 9333.08942616
+      }
+    },
+    "Difference": 2.04603495963617
+  },
+  "Haiti": {
+    "Currency": "GOURDE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 9558.657396705,
+        "SMA": 7168.99304752875
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 9736.430377287,
+        "SMA": 7302.32278296525
+      }
+    },
+    "Difference": 1.85981119736837
+  },
+  "Honduras": {
+    "Currency": "LEMPIRA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1156.608189492,
+        "SMA": 867.456142119
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1186.044894765,
+        "SMA": 889.53367107375
+      }
+    },
+    "Difference": 2.54508878118256
+  },
+  "Hong Kong": {
+    "Currency": "HK$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 728.375136705,
+        "SMA": 546.28135252875
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 774.368047287,
+        "SMA": 580.77603546525
+      }
+    },
+    "Difference": 6.31445367425107
+  },
+  "Hungary": {
+    "Currency": "FORINT",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 15658.468820949,
+        "SMA": 11743.8516157118
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 18383.756288265,
+        "SMA": 13787.8172161987
+      }
+    },
+    "Difference": 17.4045591461019
+  },
+  "Iceland": {
+    "Currency": "KRONA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 12621.320402937,
+        "SMA": 9465.99030220275
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 13368.3642003,
+        "SMA": 10026.273150225
+      }
+    },
+    "Difference": 5.91890367658492
+  },
+  "India": {
+    "Currency": "RUPEE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2674.897759443,
+        "SMA": 2006.17331958225
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2747.267554671,
+        "SMA": 2060.45066600325
+      }
+    },
+    "Difference": 2.70551631263356
+  },
+  "Indonesia": {
+    "Currency": "RUPIAH",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 762438.144141795,
+        "SMA": 571828.608106346
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 803140.677639261,
+        "SMA": 602355.508229446
+      }
+    },
+    "Difference": 5.33847024971199
+  },
+  "Iran": {
+    "Currency": "RIAL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 6401222.127897,
+        "SMA": 4800916.59592275
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 8796223.324788,
+        "SMA": 6597167.493591
+      }
+    },
+    "Difference": 37.4147490750775
+  },
+  "Iraq": {
+    "Currency": "Dinar",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 90544.681090551,
+        "SMA": 67908.5108179133
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 91577.106899301,
+        "SMA": 68682.8301744757
+      }
+    },
+    "Difference": 1.14023904697117
+  },
+  "Ireland": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 77.395719912,
+        "SMA": 58.046789934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 79.5116835,
+        "SMA": 59.633762625
+      }
+    },
+    "Difference": 2.7339542682798
+  },
+  "Israel": {
+    "Currency": "SHEKEL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 362.588349159,
+        "SMA": 271.94126186925
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 369.800389848,
+        "SMA": 277.350292386
+      }
+    },
+    "Difference": 1.98904369258635
+  },
+  "Italy": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 62.075109912,
+        "SMA": 46.556332434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 65.4083535,
+        "SMA": 49.056265125
+      }
+    },
+    "Difference": 5.36969421838371
+  },
+  "Ivory Coast": {
+    "Currency": "XOF",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 44964.688411029,
+        "SMA": 33723.5163082717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 46172.923088649,
+        "SMA": 34629.6923164867
+      }
+    },
+    "Difference": 2.68707450294184
+  },
+  "Jamacia": {
+    "Currency": "JAMACIAN $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 7796.045470509,
+        "SMA": 5847.03410288175
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 7953.486167142,
+        "SMA": 5965.1146253565
+      }
+    },
+    "Difference": 2.01949433502624
+  },
+  "Japan": {
+    "Currency": "YEN",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 7106.953609389,
+        "SMA": 5330.21520704175
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 7124.343928239,
+        "SMA": 5343.25794617925
+      }
+    },
+    "Difference": 0.244694419097158
+  },
+  "Jordan": {
+    "Currency": "JORD DINAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 61.957829739,
+        "SMA": 46.46837230425
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 63.27726711,
+        "SMA": 47.4579503325
+      }
+    },
+    "Difference": 2.12957325419272
+  },
+  "Kazakhstan": {
+    "Currency": "TENGE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 11947.346931177,
+        "SMA": 8960.51019838275
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 15576.402820872,
+        "SMA": 11682.302115654
+      }
+    },
+    "Difference": 30.375412303671
+  },
+  "Kenya": {
+    "Currency": "KENYA SHILLING",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 5870.907699471,
+        "SMA": 4403.18077460325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 5950.831271532,
+        "SMA": 4463.123453649
+      }
+    },
+    "Difference": 1.36134949061118
+  },
+  "Kiribati": {
+    "Currency": "AUS $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 56.613806967,
+        "SMA": 42.46035522525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 56.442177144,
+        "SMA": 42.331632858
+      }
+    },
+    "Difference": -0.303158950430657
+  },
+  "Kosovo": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 27.667929912,
+        "SMA": 20.750947434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 27.9104235,
+        "SMA": 20.932817625
+      }
+    },
+    "Difference": 0.876442830277739
+  },
+  "Kuwait": {
+    "Currency": "KUWAIT DINAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 23.447415687,
+        "SMA": 17.58556176525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 24.535672566,
+        "SMA": 18.4017544245
+      }
+    },
+    "Difference": 4.64126577328247
+  },
+  "Kyrgystan": {
+    "Currency": "SOM",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2122.154779641,
+        "SMA": 1591.61608473075
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2207.658099795,
+        "SMA": 1655.74357484625
+      }
+    },
+    "Difference": 4.02908029962192
+  },
+  "Laos": {
+    "Currency": "NEW KIP",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 287586.785982519,
+        "SMA": 215690.089486889
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 305681.371234794,
+        "SMA": 229261.028426096
+      }
+    },
+    "Difference": 6.29186949270158
+  },
+  "Latvia": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 58.147479912,
+        "SMA": 43.610609934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 61.2429735,
+        "SMA": 45.932230125
+      }
+    },
+    "Difference": 5.32352148826519
+  },
+  "Lebanon ": {
+    "Currency": "LEBANESE £",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": X,
+        "SMA": X
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": X,
+        "SMA": X
+      }
+    },
+    "Difference":  
+  },
+  "Lesotho": {
+    "Currency": "MALUTI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 378.751696368,
+        "SMA": 284.063772276
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 396.17023329,
+        "SMA": 297.1276749675
+      }
+    },
+    "Difference": 4.59893304479778
+  },
+  "Liberia": {
+    "Currency": "US$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 71.943218472,
+        "SMA": 53.957413854
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 71.670879651,
+        "SMA": 53.75315973825
+      }
+    },
+    "Difference": -0.378546896822527
+  },
+  "Libya": {
+    "Currency": "LIBYAN DINAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 83.895166791,
+        "SMA": 62.92137509325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 87.159971664,
+        "SMA": 65.369978748
+      }
+    },
+    "Difference": 3.89152915224938
+  },
+  "Lithuania": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 49.531419912,
+        "SMA": 37.148564934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 54.0439035,
+        "SMA": 40.532927625
+      }
+    },
+    "Difference": 9.11034570787008
+  },
+  "Luxembourg": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 80.163129912,
+        "SMA": 60.122347434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 82.1364435,
+        "SMA": 61.602332625
+      }
+    },
+    "Difference": 2.46162243186643
+  },
+  "Macao": {
+    "Currency": "HK$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 569.841277935,
+        "SMA": 427.38095845125
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 582.173599626,
+        "SMA": 436.6301997195
+      }
+    },
+    "Difference": 2.16416784261226
+  },
+  "Macedonia": {
+    "Currency": "DENAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1875.754906836,
+        "SMA": 1406.816180127
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1940.823255012,
+        "SMA": 1455.617441259
+      }
+    },
+    "Difference": 3.46891525853749
+  },
+  "Madagascar": {
+    "Currency": "MG ARIARY",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 91622.792279307,
+        "SMA": 68717.0942094802
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 95165.561868675,
+        "SMA": 71374.1714015062
+      }
+    },
+    "Difference": 3.86669026476301
+  },
+  "Malawi": {
+    "Currency": "KWACHA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 31235.444710617,
+        "SMA": 23426.5835329628
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 31383.885598779,
+        "SMA": 23537.9141990843
+      }
+    },
+    "Difference": 0.4752321906643
+  },
+  "Malaysia": {
+    "Currency": "RINGGIT",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 172.109593941,
+        "SMA": 129.08219545575
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 174.572538438,
+        "SMA": 130.9294038285
+      }
+    },
+    "Difference": 1.43103265808897
+  },
+  "Maldives": {
+    "Currency": "MVR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 784.895868351,
+        "SMA": 588.67190126325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 815.958091296,
+        "SMA": 611.968568472
+      }
+    },
+    "Difference": 3.95749604469941
+  },
+  "Mali": {
+    "Currency": "CFA FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 28727.428531029,
+        "SMA": 21545.5713982717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 29072.450018649,
+        "SMA": 21804.3375139867
+      }
+    },
+    "Difference": 1.20101765198837
+  },
+  "Malta": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 59.602509912,
+        "SMA": 44.701882434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 60.8625735,
+        "SMA": 45.646930125
+      }
+    },
+    "Difference": 2.11411162023279
+  },
+  "Martinque": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 68.598969912,
+        "SMA": 51.449227434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 72.6264435,
+        "SMA": 54.469832625
+      }
+    },
+    "Difference": 5.87104091091528
+  },
+  "Mauritania": {
+    "Currency": "OUGUIYA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1316.763247443,
+        "SMA": 987.57243558225
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1365.121734387,
+        "SMA": 1023.84130079025
+      }
+    },
+    "Difference": 3.67252708775906
+  },
+  "Mauritius": {
+    "Currency": "RUPEE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1842.361938855,
+        "SMA": 1381.77145414125
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1934.865734532,
+        "SMA": 1451.149300899
+      }
+    },
+    "Difference": 5.02093501423992
+  },
+  "Mexico": {
+    "Currency": "PESO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 875.308518687,
+        "SMA": 656.48138901525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 970.820567967,
+        "SMA": 728.11542597525
+      }
+    },
+    "Difference": 10.9118153474928
+  },
+  "Moldova": {
+    "Currency": "LEI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 661.057220853,
+        "SMA": 495.79291563975
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 726.679809927,
+        "SMA": 545.00985744525
+      }
+    },
+    "Difference": 9.92691509962229
+  },
+  "Mongolia": {
+    "Currency": "TUGRIK",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 95012.781654054,
+        "SMA": 71259.5862405405
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 119089.991836779,
+        "SMA": 89317.4938775842
+      }
+    },
+    "Difference": 25.3410222957068
+  },
+  "Montenegro": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 39.355719912,
+        "SMA": 29.516789934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 40.2924435,
+        "SMA": 30.219332625
+      }
+    },
+    "Difference": 2.38014598664319
+  },
+  "Montserrat": {
+    "Currency": "EAST CARIB $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Morocco": {
+    "Currency": "DIRHAM",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 517.979160537,
+        "SMA": 388.48437040275
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 526.236407286,
+        "SMA": 394.6773054645
+      }
+    },
+    "Difference": 1.59412721168928
+  },
+  "Mozambique": {
+    "Currency": "METICAL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2401.081811958,
+        "SMA": 1800.8113589685
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2639.676391254,
+        "SMA": 1979.7572934405
+      }
+    },
+    "Difference": 9.93696166901677
+  },
+  "Namibia": {
+    "Currency": "NAMIBIAN $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 454.556778435,
+        "SMA": 340.91758382625
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 494.604856779,
+        "SMA": 370.95364258425
+      }
+    },
+    "Difference": 8.81035774714039
+  },
+  "Nepal": {
+    "Currency": "NEPAL RUPEE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 3892.3072923,
+        "SMA": 2919.230469225
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 4143.638026878,
+        "SMA": 3107.7285201585
+      }
+    },
+    "Difference": 6.45711439780712
+  },
+  "Netherlands": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 66.668439912,
+        "SMA": 50.001329934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 67.2437835,
+        "SMA": 50.432837625
+      }
+    },
+    "Difference": 0.862992427540576
+  },
+  "Netherlands Antilles": {
+    "Currency": "ANT GUILDER",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "New Caledonia": {
+    "Currency": "CP FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 10116.814080951,
+        "SMA": 7587.61056071325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 10319.631964167,
+        "SMA": 7739.72397312525
+      }
+    },
+    "Difference": 2.00476040770469
+  },
+  "New Zealand": {
+    "Currency": "NZ$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 105.731225196,
+        "SMA": 79.298418897
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 107.760969222,
+        "SMA": 80.8207269165
+      }
+    },
+    "Difference": 1.9197205198723
+  },
+  "Nicaragua": {
+    "Currency": "CORDOBA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1614.160710174,
+        "SMA": 1210.6205326305
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1761.379604229,
+        "SMA": 1321.03470317175
+      }
+    },
+    "Difference": 9.12046075258084
+  },
+  "Niger": {
+    "Currency": "CFA FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 22680.171691029,
+        "SMA": 17010.1287682717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 23838.621518649,
+        "SMA": 17878.9661389868
+      }
+    },
+    "Difference": 5.1077648061995
+  },
+  "Nigeria": {
+    "Currency": "NAIRA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 27199.783954107,
+        "SMA": 20399.8379655802
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 31254.649621155,
+        "SMA": 23440.9872158663
+      }
+    },
+    "Difference": 14.9077127740779
+  },
+  "Norway": {
+    "Currency": "NOR KRONE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 962.494580085,
+        "SMA": 721.87093506375
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1029.805255974,
+        "SMA": 772.3539419805
+      }
+    },
+    "Difference": 6.99335635563325
+  },
+  "Oman": {
+    "Currency": "OMANI RIAL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 35.502824247,
+        "SMA": 26.62711818525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 36.868429815,
+        "SMA": 27.65132236125
+      }
+    },
+    "Difference": 3.84647023712597
+  },
+  "Pakistan": {
+    "Currency": "RUPEE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 3968.529743541,
+        "SMA": 2976.39730765575
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 4978.244744115,
+        "SMA": 3733.68355808625
+      }
+    },
+    "Difference": 25.4430498402429
+  },
+  "Panama": {
+    "Currency": "BALBOA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 65.038958472,
+        "SMA": 48.779218854
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 67.296279651,
+        "SMA": 50.47220973825
+      }
+    },
+    "Difference": 3.47072159830451
+  },
+  "Papua & New Guinea": {
+    "Currency": "KINA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 204.083255286,
+        "SMA": 153.0624414645
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 229.090201608,
+        "SMA": 171.817651206
+      }
+    },
+    "Difference": 12.25330627295
+  },
+  "Paraguay": {
+    "Currency": "GUARANI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 228621.009160197,
+        "SMA": 171465.756870148
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 236111.925745293,
+        "SMA": 177083.94430897
+      }
+    },
+    "Difference": 3.27656526957547
+  },
+  "Peru": {
+    "Currency": "NUEVO SOL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 188.184544749,
+        "SMA": 141.13840856175
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 198.320638452,
+        "SMA": 148.740478839
+      }
+    },
+    "Difference": 5.38625194567356
+  },
+  "Philippines": {
+    "Currency": "PESO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2612.149558359,
+        "SMA": 1959.11216876925
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2794.618557921,
+        "SMA": 2095.96391844075
+      }
+    },
+    "Difference": 6.985396336825
+  },
+  "Poland": {
+    "Currency": "ZLOTY",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 200.480109339,
+        "SMA": 150.36008200425
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 207.947095059,
+        "SMA": 155.96032129425
+      }
+    },
+    "Difference": 3.7245518992479
+  },
+  "Portugal": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 47.591379912,
+        "SMA": 35.693534934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 49.5551835,
+        "SMA": 37.166387625
+      }
+    },
+    "Difference": 4.12638505467
+  },
+  "Puerto Rico": {
+    "Currency": "USD",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 80.835068472,
+        "SMA": 60.626301354
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 82.578849651,
+        "SMA": 61.93413723825
+      }
+    },
+    "Difference": 2.15720876095259
+  },
+  "Qatar": {
+    "Currency": "QATAR - RIAL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 328.022271324,
+        "SMA": 246.016703493
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 345.705501978,
+        "SMA": 259.2791264835
+      }
+    },
+    "Difference": 5.39086281630358
+  },
+  "Romania": {
+    "Currency": "NEW LEU",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 173.903655441,
+        "SMA": 130.42774158075
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 191.081423889,
+        "SMA": 143.31106791675
+      }
+    },
+    "Difference": 9.87775007054286
+  },
+  "Russian Federation": {
+    "Currency": "ROUBLE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 4213.318885773,
+        "SMA": 3159.98916432975
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 5189.949381873,
+        "SMA": 3892.46203640475
+      }
+    },
+    "Difference": 23.1796007512691
+  },
+  "Rwanda": {
+    "Currency": "FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 34121.200059726,
+        "SMA": 25590.9000447945
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 35335.035538677,
+        "SMA": 26501.2766540078
+      }
+    },
+    "Difference": 3.55742317628425
+  },
+  "Saint Maartin": {
+    "Currency": "x",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Samoa": {
+    "Currency": "TALA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 158.302230357,
+        "SMA": 118.72667276775
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 174.305567061,
+        "SMA": 130.72917529575
+      }
+    },
+    "Difference": 10.1093564303608
+  },
+  "Saudi Arabia": {
+    "Currency": "SAUDI RIAL",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 300.134789748,
+        "SMA": 225.101092311
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 326.811305013,
+        "SMA": 245.10847875975
+      }
+    },
+    "Difference": 8.88817830395409
+  },
+  "Senegal": {
+    "Currency": "CFA FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 35885.158561029,
+        "SMA": 26913.8689207717
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 37072.090838649,
+        "SMA": 27804.0681289868
+      }
+    },
+    "Difference": 3.30758543424412
+  },
+  "Serbia": {
+    "Currency": "DINAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 4370.839028946,
+        "SMA": 3278.1292717095
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 4756.943295273,
+        "SMA": 3567.70747145475
+      }
+    },
+    "Difference": 8.8336418653264
+  },
+  "Seychelles": {
+    "Currency": "RUPEE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1278.314388768,
+        "SMA": 958.735791576
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1321.933700352,
+        "SMA": 991.450275264
+      }
+    },
+    "Difference": 3.41225225713364
+  },
+  "Sierra Leone": {
+    "Currency": "LEONE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 449113.203078147,
+        "SMA": 336834.90230861
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": X,
+        "SMA": X
+      }
+    },
+    "Difference":  
+  },
+  "Singapore": {
+    "Currency": "SINGAPORE $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 123.343452288,
+        "SMA": 92.507589216
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 130.80735867,
+        "SMA": 98.1055190025
+      }
+    },
+    "Difference": 6.05131950139696
+  },
+  "Slovakia": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 52.859919912,
+        "SMA": 39.644939934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 56.0790435,
+        "SMA": 42.059282625
+      }
+    },
+    "Difference": 6.08991385790804
+  },
+  "Slovenia": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 51.823329912,
+        "SMA": 38.867497434
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 51.8756235,
+        "SMA": 38.906717625
+      }
+    },
+    "Difference": 0.100907425456427
+  },
+  "Solomon Islands": {
+    "Currency": "SI $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 584.175608688,
+        "SMA": 438.131706516
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 612.297253092,
+        "SMA": 459.222939819
+      }
+    },
+    "Difference": 4.81390252961064
+  },
+  "South Africa": {
+    "Currency": "RAND",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 509.228896368,
+        "SMA": 381.921672276
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 549.25270329,
+        "SMA": 411.9395274675
+      }
+    },
+    "Difference": 7.85968887615451
+  },
+  "South Korea": {
+    "Currency": "KRW",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 90046.82353608,
+        "SMA": 67535.11765206
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 91292.053313862,
+        "SMA": 68469.0399853965
+      }
+    },
+    "Difference": 1.38286918836516
+  },
+  "South Sudan": {
+    "Currency": "x",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Somalia": {
+    "Currency": "x",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Spain": {
+    "Currency": "EURO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 55.750959912,
+        "SMA": 41.813219934
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 56.3548335,
+        "SMA": 42.266125125
+      }
+    },
+    "Difference": 1.08316267370674
+  },
+  "Sri Lanka": {
+    "Currency": "RUPEE",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 8026.208607435,
+        "SMA": 6019.65645557625
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 10301.512880703,
+        "SMA": 7726.13466052725
+      }
+    },
+    "Difference": 28.3484318007919
+  },
+  "St Kitts": {
+    "Currency": "EC$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 159.042474492,
+        "SMA": 119.281855869
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 161.618799111,
+        "SMA": 121.21409933325
+      }
+    },
+    "Difference": 1.61989721753832
+  },
+  "St Lucia": {
+    "Currency": "EC$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 183.530724492,
+        "SMA": 137.648043369
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 197.433459111,
+        "SMA": 148.07509433325
+      }
+    },
+    "Difference": 7.57515378282399
+  },
+  "St Vincent": {
+    "Currency": "EC$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 150.768774492,
+        "SMA": 113.076580869
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 153.649419111,
+        "SMA": 115.23706433325
+      }
+    },
+    "Difference": 1.91063741726761
+  },
+  "Sudan": {
+    "Currency": "SUDAN POUND",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 24630.696677151,
+        "SMA": 18473.0225078633
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 33365.537117319,
+        "SMA": 25024.1528379892
+      }
+    },
+    "Difference": 35.4632292974116
+  },
+  "Suriname": {
+    "Currency": "DOLLAR",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 845.910331767,
+        "SMA": 634.43274882525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 962.683213788,
+        "SMA": 722.012410341
+      }
+    },
+    "Difference": 13.8044042773513
+  },
+  "Swaziland (Eswatini)": {
+    "Currency": "LILANGENI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 461.127316368,
+        "SMA": 345.845487276
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 462.45493329,
+        "SMA": 346.8411999675
+      }
+    },
+    "Difference": 0.287906804666619
+  },
+  "Sweden": {
+    "Currency": "S KRONA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 784.725255147,
+        "SMA": 588.54394136025
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 793.393092342,
+        "SMA": 595.0448192565
+      }
+    },
+    "Difference": 1.1045696743093
+  },
+  "Switzerland": {
+    "Currency": "SWISS FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 109.215476172,
+        "SMA": 81.911607129
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 112.227108678,
+        "SMA": 84.1703315085
+      }
+    },
+    "Difference": 2.75751442154323
+  },
+  "Syria": {
+    "Currency": "SYRIAN £",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Taiwan": {
+    "Currency": "TAIWAN $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2060.607529887,
+        "SMA": 1545.45564741525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2071.958509923,
+        "SMA": 1553.96888244225
+      }
+    },
+    "Difference": 0.550855991321271
+  },
+  "Tajikistan": {
+    "Currency": "TJS",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 213.673327584,
+        "SMA": 160.254995688
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 248.24757546,
+        "SMA": 186.185681595
+      }
+    },
+    "Difference": 16.1808908331846
+  },
+  "Tanzania": {
+    "Currency": "TANZ SHILLING",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 100231.77677559,
+        "SMA": 75173.8325816925
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 102393.36594852,
+        "SMA": 76795.02446139
+      }
+    },
+    "Difference": 2.15659069655088
+  },
+  "Thailand": {
+    "Currency": "BAHT",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2111.220498324,
+        "SMA": 1583.415373743
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2116.756835169,
+        "SMA": 1587.56762637675
+      }
+    },
+    "Difference": 0.262233947112335
+  },
+  "Togo": {
+    "Currency": "CFA FRANC",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 33655.567591029,
+        "SMA": 25241.6756932718
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 34847.311928649,
+        "SMA": 26135.4839464867
+      }
+    },
+    "Difference": 3.54100204786818
+  },
+  "Tonga": {
+    "Currency": "TONGAN $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 112.913006967,
+        "SMA": 84.68475522525
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 120.216237144,
+        "SMA": 90.162177858
+      }
+    },
+    "Difference": 6.46801495520741
+  },
+  "Trinidad & Tobago": {
+    "Currency": "T&T $",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 581.367983751,
+        "SMA": 436.02598781325
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 587.973916953,
+        "SMA": 440.98043771475
+      }
+    },
+    "Difference": 1.13627399282952
+  },
+  "Tunisia": {
+    "Currency": "DINARS",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 82.003164654,
+        "SMA": 61.5023734905
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 84.446401578,
+        "SMA": 63.3348011835
+      }
+    },
+    "Difference": 2.97944223775859
+  },
+  "Turkey": {
+    "Currency": "NEW LIRA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 369.952511808,
+        "SMA": 277.464383856
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 718.19243259,
+        "SMA": 538.6443244425
+      }
+    },
+    "Difference": 94.130978887023
+  },
+  "Turkmenistan": {
+    "Currency": "MANAT",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 511.078216674,
+        "SMA": 383.3086625055
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 527.082088791,
+        "SMA": 395.31156659325
+      }
+    },
+    "Difference": 3.13139390309965
+  },
+  "Turks & Caicos": {
+    "Currency": "US$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 70.202888472,
+        "SMA": 52.652166354
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 71.157339651,
+        "SMA": 53.36800473825
+      }
+    },
+    "Difference": 1.35956112315903
+  },
+  "Uganda": {
+    "Currency": "NEW SHILLING",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 144185.793189039,
+        "SMA": 108139.344891779
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 148289.31186678,
+        "SMA": 111216.983900085
+      }
+    },
+    "Difference": 2.84599376053714
+  },
+  "Ukraine": {
+    "Currency": "HRYVNI",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1182.88,
+        "SMA": 887.16
+      }
+    },
+    "Difference": x
+  },
+  "United Arab Emirates": {
+    "Currency": "DIRHAMS",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 359.615548836,
+        "SMA": 269.711661627
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 369.159032595,
+        "SMA": 276.86927444625
+      }
+    },
+    "Difference": 2.65380175854195
+  },
+  "USA": {
+    "Currency": "US$",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 90.497228472,
+        "SMA": 67.872921354
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 94.951359651,
+        "SMA": 71.21351973825
+      }
+    },
+    "Difference": 4.92184264005179
+  },
+  "Uruguay": {
+    "Currency": "PESO",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 2061.322252986,
+        "SMA": 1545.9916897395
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 2161.859112378,
+        "SMA": 1621.3943342835
+      }
+    },
+    "Difference": 4.87729947349884
+  },
+  "Uzbekistan": {
+    "Currency": "SUM",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 222807.635253681,
+        "SMA": 167105.726440261
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 254823.781439541,
+        "SMA": 191117.836079656
+      }
+    },
+    "Difference": 14.3694116000143
+  },
+  "Vanuatu": {
+    "Currency": "VATU",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 7904.395100172,
+        "SMA": 5928.296325129
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 8100.08530686,
+        "SMA": 6075.063980145
+      }
+    },
+    "Difference": 2.47571388079703
+  },
+  "Venezuela": {
+    "Currency": "USD",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Vietnam": {
+    "Currency": "DONG",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 1016661.15224097,
+        "SMA": 762495.86418073
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 1043531.77801512,
+        "SMA": 782648.83351134
+      }
+    },
+    "Difference": 2.64302670707121
+  },
+  "Yemen": {
+    "Currency": "USD",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "Zambia": {
+    "Currency": "KWACHA",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": 884.665708203,
+        "SMA": 663.49928115225
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": 908.24119506,
+        "SMA": 681.180896295
+      }
+    },
+    "Difference": 2.66490343622432
+  },
+  "Zimbabwe": {
+    "Currency": "USD",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": x,
+        "SMA": x
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": x,
+        "SMA": x
+      }
+    },
+    "Difference": x
+  },
+  "": {
+    "Currency": "",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": ,
+        "SMA": 
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": ,
+        "SMA": 
+      }
+    },
+    "Difference": 
+  },
+  "": {
+    "Currency": "",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": ,
+        "SMA": 
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": ,
+        "SMA": 
+      }
+    },
+    "Difference": 
+  },
+  "": {
+    "Currency": "",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": ,
+        "SMA": 
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": ,
+        "SMA": 
+      }
+    },
+    "Difference": 
+  },
+  " ": {
+    "Currency": "",
+    "Data": {
+      "DateRange1": {
+        "StartDate": "01/07/2022",
+        "EndDate": "31/12/2022",
+        "DaySubsistence": ,
+        "SMA": 
+      },
+      "DateRange2": {
+        "StartDate": "01/01/2023",
+        "EndDate": "31/12/2023",
+        "DaySubsistence": ,
+        "SMA": 
+      }
+    },
+    "Difference": 
+  
 }
