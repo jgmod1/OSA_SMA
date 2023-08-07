@@ -1,19 +1,22 @@
-{
-  "options": [
-    {
-      "value": "option1",
-      "label": "Option 1",
-      "price": 10
-    },
-    {
-      "value": "option2",
-      "label": "Option 2",
-      "price": 20
-    },
-    {
-      "value": "option3",
-      "label": "Option 3",
-      "price": 30
-    }
-  ]
-}
+[
+  {
+    "country": "United Kingdom",
+    "constant": 2.5
+  },
+  {
+    "country": "United States",
+    "constant": 3.2
+  },
+  {
+    "country": "Canada",
+    "constant": 4.7
+  },
+  {
+    "country": "Australia",
+    "constant": 2.1
+  },
+  {
+    "country": "Germany",
+    "constant": 5.3
+  }
+]
