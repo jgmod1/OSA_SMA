@@ -1,17 +1,15 @@
 {
-  "usa": [
-    {"value": 1, "label": "A"},
-    {"value": 2, "label": "B"},
-    {"value": 3, "label": "C"}
-  ],
-  "uk": [
-    {"value": 4, "label": "D"},
-    {"value": 5, "label": "E"},
-    {"value": 6, "label": "F"}
-  ],
-  "france": [
-    {"value": 7, "label": "G"},
-    {"value": 8, "label": "H"},
-    {"value": 9, "label": "I"}
+  "countries": [
+    {
+      "name": "United Kingdom",
+      "SMA": 5,
+      "OSA": 8
+    },
+    {
+      "name": "United States",
+      "SMA": 6,
+      "OSA": 9
+    },
+    ...
   ]
 }
