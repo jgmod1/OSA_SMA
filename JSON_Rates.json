@@ -1,22 +1,17 @@
-[
-  {
-    "country": "United Kingdom",
-    "constant": 2.5
-  },
-  {
-    "country": "United States",
-    "constant": 3.2
-  },
-  {
-    "country": "Canada",
-    "constant": 4.7
-  },
-  {
-    "country": "Australia",
-    "constant": 2.1
-  },
-  {
-    "country": "Germany",
-    "constant": 5.3
-  }
-]
+{
+  "usa": [
+    {"value": 1, "label": "A"},
+    {"value": 2, "label": "B"},
+    {"value": 3, "label": "C"}
+  ],
+  "uk": [
+    {"value": 4, "label": "D"},
+    {"value": 5, "label": "E"},
+    {"value": 6, "label": "F"}
+  ],
+  "france": [
+    {"value": 7, "label": "G"},
+    {"value": 8, "label": "H"},
+    {"value": 9, "label": "I"}
+  ]
+}
