@@ -1,15 +1,25 @@
 {
-  "countries": [
-    {
-      "name": "United Kingdom",
-      "SMA": 5,
-      "OSA": 8
-    },
-    {
-      "name": "United States",
-      "SMA": 6,
-      "OSA": 9
-    },
-    ...
-  ]
+"countries": [
+{
+"name": "USA",
+"constants": {
+"SMA": 0.05,
+"OSA": 0.1
+}
+},
+{
+"name": "UK",
+"constants": {
+"SMA": 0.07,
+"OSA": 0.12
+}
+},
+{
+"name": "France",
+"constants": {
+"SMA": 0.06,
+"OSA": 0.11
+}
+}
+]
 }
