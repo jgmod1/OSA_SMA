@@ -1,5 +1,6 @@
 {
   "Albania": {
+    "Country": "Albania",
     "Currency": "LEK",
     "Data": {
       "DateRange1": {
@@ -23,6 +24,7 @@
     },
   },
   "Algeria": {
+    "Country": "Algeria",
     "Currency": "DINAR",
     "Data": {
       "DateRange1": {
@@ -46,6 +48,7 @@
     },
   },
   "American Samoa": {
+    "Country": "American Samoa",
     "Currency": "USD",
     "Data": {
       "DateRange1": {
@@ -69,6 +72,7 @@
     },
   },
   "Angola": {
+    "Country": "Angola",
     "Currency": "KWANZA",
     "Data": {
       "DateRange1": {
@@ -92,6 +96,7 @@
     },
   },
   "Anguilla": {
+    "Country": "Anguilla",
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
@@ -115,6 +120,7 @@
     },
   },
   "Antigua and Barbuda": {
+    "Country": "Antigua and Barbuda",
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
@@ -138,6 +144,7 @@
     },
   },
   "Argentina": {
+    "Country": "Argentina",
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
@@ -161,6 +168,7 @@
     },
   },
   "Armenia": {
+    "Country": "Armenia",
     "Currency": "DRAM",
     "Data": {
       "DateRange1": {
@@ -184,6 +192,7 @@
     },
   },
   "Australia": {
+    "Country": "Australia",
     "Currency": "AUS $",
     "Data": {
       "DateRange1": {
@@ -207,6 +216,7 @@
     },
   },
   "Austria": {
+    "Country": "Austria",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -230,6 +240,7 @@
     },
   },
   "Azerbaijan": {
+    "Country": "Azerbaijan",
     "Currency": "MANAT",
     "Data": {
       "DateRange1": {
@@ -253,6 +264,7 @@
     },
   },
   "Bahamas": {
+    "Country": "Bahamas",
     "Currency": "BAHAMA $",
     "Data": {
       "DateRange1": {
@@ -276,6 +288,7 @@
     },
   },
   "Bahrain": {
+    "Country": "Bahrain",
     "Currency": "DINAR",
     "Data": {
       "DateRange1": {
@@ -299,6 +312,7 @@
     },
   },
   "Bangladesh": {
+    "Country": "Bangladesh",
     "Currency": "TAKA",
     "Data": {
       "DateRange1": {
@@ -322,6 +336,7 @@
     },
   },
   "Barbados": {
+    "Country": "Barbados",
     "Currency": "BARBADOS $",
     "Data": {
       "DateRange1": {
@@ -345,6 +360,7 @@
     },
   },
   "Belarus": {
+    "Country": "Belarus",
     "Currency": "ROUBLE",
     "Data": {
       "DateRange1": {
@@ -368,6 +384,7 @@
     },
   },
   "Belgium": {
+    "Country": "Belgium",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -391,6 +408,7 @@
     },
   },
   "Belize": {
+    "Country": "Belize",
     "Currency": "BZ$ ",
     "Data": {
       "DateRange1": {
@@ -414,6 +432,7 @@
     },
   },
   "Benin": {
+    "Country": "Benin",
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
@@ -437,6 +456,7 @@
     },
   },
   "Bermuda": {
+    "Country": "Bermuda",
     "Currency": "BERMUDA $",
     "Data": {
       "DateRange1": {
@@ -460,6 +480,7 @@
     },
   },
   "Bolivia": {
+    "Country": "Bolivia",
     "Currency": "BOLIVIANO",
     "Data": {
       "DateRange1": {
@@ -483,6 +504,7 @@
     },
   },
   "Bosnia": {
+    "Country": "Bosnia",
     "Currency": "MARKA",
     "Data": {
       "DateRange1": {
@@ -506,6 +528,7 @@
     },
   },
   "Botswana": {
+    "Country": "Botswana",
     "Currency": "PULA",
     "Data": {
       "DateRange1": {
@@ -529,6 +552,7 @@
     },
   },
   "Brazil": {
+    "Country": "Brazil",
     "Currency": "REAL",
     "Data": {
       "DateRange1": {
@@ -552,6 +576,7 @@
     },
   },
   "Brunei": {
+    "Country": "Brunei",
     "Currency": "BRUNEI $",
     "Data": {
       "DateRange1": {
@@ -575,6 +600,7 @@
     },
   },
   "Bulgaria": {
+    "Country": "Bulgaria",
     "Currency": "LEV",
     "Data": {
       "DateRange1": {
@@ -598,6 +624,7 @@
     },
   },
   "Burkina Faso": {
+    "Country": "Burkina Faso",
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
@@ -621,6 +648,7 @@
     },
   },
   "Burma": {
+    "Country": "Burma",
     "Currency": "KYAT",
     "Data": {
       "DateRange1": {
@@ -644,6 +672,7 @@
     },
   },
   "Burundi": {
+    "Country": "Burundi",
     "Currency": "BURUNDI FRC",
     "Data": {
       "DateRange1": {
@@ -667,6 +696,7 @@
     },
   },
   "Cambodia": {
+    "Country": "Cambodia",
     "Currency": "RIEL",
     "Data": {
       "DateRange1": {
@@ -690,6 +720,7 @@
     },
   },
   "Cameroon": {
+    "Country": "Cameroon",
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
@@ -713,6 +744,7 @@
     },
   },
   "Canada": {
+    "Country": "Canada",
     "Currency": "CA$",
     "Data": {
       "DateRange1": {
@@ -736,6 +768,7 @@
     },
   },
   "Cape Verde": {
+    "Country": "Cape Verde",
     "Currency": "x",
     "Data": {
       "DateRange1": {
@@ -759,6 +792,7 @@
     },
   },
   "Cayman Islands": {
+    "Country": "Cayman Islands",
     "Currency": "Cayman Island $",
     "Data": {
       "DateRange1": {
@@ -782,6 +816,7 @@
     },
   },
   "Chad": {
+    "Country": "Chad",
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
@@ -805,6 +840,7 @@
     },
   },
   "Chile": {
+    "Country": "Chile",
     "Currency": "PESOS",
     "Data": {
       "DateRange1": {
@@ -828,6 +864,7 @@
     },
   },
   "China": {
+    "Country": "China",
     "Currency": "RENMINBI",
     "Data": {
       "DateRange1": {
@@ -851,6 +888,7 @@
     },
   },
   "Colombia": {
+    "Country": "Colombia",
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
@@ -874,6 +912,7 @@
     },
   },
   "Congo ": {
+    "Country": "Congo ",
     "Currency": "XAF",
     "Data": {
       "DateRange1": {
@@ -897,6 +936,7 @@
     },
   },
   "Congo Dem Republic": {
+    "Country": "Congo Dem Republic",
     "Currency": "CONGO FRANC",
     "Data": {
       "DateRange1": {
@@ -920,6 +960,7 @@
     },
   },
   "Cook Island": {
+    "Country": "Cook Island",
     "Currency": "NZ$",
     "Data": {
       "DateRange1": {
@@ -943,6 +984,7 @@
     },
   },
   "Costa Rica": {
+    "Country": "Costa Rica",
     "Currency": "COLON",
     "Data": {
       "DateRange1": {
@@ -966,6 +1008,7 @@
     },
   },
   "Croatia": {
+    "Country": "Croatia",
     "Currency": "EURO(was KUNA^)",
     "Data": {
       "DateRange1": {
@@ -989,6 +1032,7 @@
     },
   },
   "Cuba": {
+    "Country": "Cuba",
     "Currency": "CUBAN PESO",
     "Data": {
       "DateRange1": {
@@ -1012,6 +1056,7 @@
     },
   },
   "Curacao": {
+    "Country": "Curacao",
     "Currency": "ANT GUILDER",
     "Data": {
       "DateRange1": {
@@ -1035,6 +1080,7 @@
     },
   },
   "Cyprus": {
+    "Country": "Cyprus",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -1058,6 +1104,7 @@
     },
   },
   "Czech Republic": {
+    "Country": "Czech Republic",
     "Currency": "KORUNA",
     "Data": {
       "DateRange1": {
@@ -1081,6 +1128,7 @@
     },
   },
   "Denmark": {
+    "Country": "Denmark",
     "Currency": "KRONE",
     "Data": {
       "DateRange1": {
@@ -1104,6 +1152,7 @@
     },
   },
   "Diego Garcia": {
+    "Country": "Diego Garcia",
     "Currency": "x",
     "Data": {
       "DateRange1": {
@@ -1127,6 +1176,7 @@
     },
   },
   "Djibouti": {
+    "Country": "Djibouti",
     "Currency": " FRANCS",
     "Data": {
       "DateRange1": {
@@ -1150,6 +1200,7 @@
     },
   },
   "Dominica": {
+    "Country": "Dominica",
     "Currency": "x",
     "Data": {
       "DateRange1": {
@@ -1173,6 +1224,7 @@
     },
   },
   "Dominican Republic": {
+    "Country": "Dominican Republic",
     "Currency": "DOM PESO",
     "Data": {
       "DateRange1": {
@@ -1196,6 +1248,7 @@
     },
   },
   "East Timor": {
+    "Country": "East Timor",
     "Currency": "US$",
     "Data": {
       "DateRange1": {
@@ -1219,6 +1272,7 @@
     },
   },
   "Ecuador": {
+    "Country": "Ecuador",
     "Currency": "US$",
     "Data": {
       "DateRange1": {
@@ -1242,6 +1296,7 @@
     },
   },
   "Egypt": {
+    "Country": "Egypt",
     "Currency": "EGYPT £",
     "Data": {
       "DateRange1": {
@@ -1265,6 +1320,7 @@
     },
   },
   "El Salvador": {
+    "Country": "El Salvador",
     "Currency": "COLON",
     "Data": {
       "DateRange1": {
@@ -1288,6 +1344,7 @@
     },
   },
   "Equatorial Guinea": {
+    "Country": "Equatorial Guinea",
     "Currency": "XAF",
     "Data": {
       "DateRange1": {
@@ -1311,6 +1368,7 @@
     },
   },
   "Eritrea": {
+    "Country": "Eritrea",
     "Currency": "NAKFA",
     "Data": {
       "DateRange1": {
@@ -1334,6 +1392,7 @@
     },
   },
   "Estonia": {
+    "Country": "Estonia",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -1357,6 +1416,7 @@
     },
   },
   "Ethiopia": {
+    "Country": "Ethiopia",
     "Currency": "BIRR",
     "Data": {
       "DateRange1": {
@@ -1380,6 +1440,7 @@
     },
   },
   "Falkland Islands": {
+    "Country": "Falkland Islands",
     "Currency": "x",
     "Data": {
       "DateRange1": {
@@ -1403,6 +1464,7 @@
     },
   },
   "Fiji": {
+    "Country": "Fiji",
     "Currency": "FIJI $",
     "Data": {
       "DateRange1": {
@@ -1426,6 +1488,7 @@
     },
   },
   "Finland": {
+    "Country": "Finland",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -1449,6 +1512,7 @@
     },
   },
   "France": {
+    "Country": "France",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -1472,6 +1536,7 @@
     },
   },
   "French Polynesia": {
+    "Country": "French Polynesia",
     "Currency": "XPF",
     "Data": {
       "DateRange1": {
@@ -1495,6 +1560,7 @@
     },
   },
   "Gabon": {
+    "Country": "Gabon",
     "Currency": "XAF",
     "Data": {
       "DateRange1": {
@@ -1518,6 +1584,7 @@
     },
   },
   "Gambia": {
+    "Country": "Gambia",
     "Currency": "DALASI",
     "Data": {
       "DateRange1": {
@@ -1541,6 +1608,7 @@
     },
   },
   "Georgia": {
+    "Country": "Georgia",
     "Currency": "LARI",
     "Data": {
       "DateRange1": {
@@ -1564,6 +1632,7 @@
     },
   },
   "Germany": {
+    "Country": "Germany",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -1587,6 +1656,7 @@
     },
   },
   "Ghana": {
+    "Country": "Ghana",
     "Currency": "NEW CEDI",
     "Data": {
       "DateRange1": {
@@ -1610,6 +1680,7 @@
     },
   },
   "Gibraltar": {
+    "Country": "Gibraltar",
     "Currency": "GI£",
     "Data": {
       "DateRange1": {
@@ -1633,6 +1704,7 @@
     },
   },
   "Greece": {
+    "Country": "Greece",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -1656,6 +1728,7 @@
     },
   },
   "Grenada": {
+    "Country": "Grenada",
     "Currency": "EAST CARIB $",
     "Data": {
       "DateRange1": {
@@ -1679,6 +1752,7 @@
     },
   },
   "Guadeloupe": {
+    "Country": "Guadeloupe",
     "Currency": "EUR",
     "Data": {
       "DateRange1": {
@@ -1702,6 +1776,7 @@
     },
   },
   "Guatemala": {
+    "Country": "Guatemala",
     "Currency": "QUETZAL",
     "Data": {
       "DateRange1": {
@@ -1725,6 +1800,7 @@
     },
   },
   "Guinea": {
+    "Country": "Guinea",
     "Currency": "GUINEA FRANC",
     "Data": {
       "DateRange1": {
@@ -1748,6 +1824,7 @@
     },
   },
   "Guyana": {
+    "Country": "Guyana",
     "Currency": "GUYANESE $",
     "Data": {
       "DateRange1": {
@@ -1771,6 +1848,7 @@
     },
   },
   "Haiti": {
+    "Country": "Haiti",
     "Currency": "GOURDE",
     "Data": {
       "DateRange1": {
@@ -1794,6 +1872,7 @@
     },
   },
   "Honduras": {
+    "Country": "Honduras",
     "Currency": "LEMPIRA",
     "Data": {
       "DateRange1": {
@@ -1817,6 +1896,7 @@
     },
   },
   "Hong Kong": {
+    "Country": "Hong Kong",
     "Currency": "HK$",
     "Data": {
       "DateRange1": {
@@ -1840,6 +1920,7 @@
     },
   },
   "Hungary": {
+    "Country": "Hungary",
     "Currency": "FORINT",
     "Data": {
       "DateRange1": {
@@ -1863,6 +1944,7 @@
     },
   },
   "Iceland": {
+    "Country": "Iceland",
     "Currency": "KRONA",
     "Data": {
       "DateRange1": {
@@ -1886,6 +1968,7 @@
     },
   },
   "India": {
+    "Country": "India",
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
@@ -1909,6 +1992,7 @@
     },
   },
   "Indonesia": {
+    "Country": "Indonesia",
     "Currency": "RUPIAH",
     "Data": {
       "DateRange1": {
@@ -1932,6 +2016,7 @@
     },
   },
   "Iran": {
+    "Country": "Iran",
     "Currency": "RIAL",
     "Data": {
       "DateRange1": {
@@ -1955,6 +2040,7 @@
     },
   },
   "Iraq": {
+    "Country": "Iraq",
     "Currency": "Dinar",
     "Data": {
       "DateRange1": {
@@ -1978,6 +2064,7 @@
     },
   },
   "Ireland": {
+    "Country": "Ireland",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2001,6 +2088,7 @@
     },
   },
   "Israel": {
+    "Country": "Israel",
     "Currency": "SHEKEL",
     "Data": {
       "DateRange1": {
@@ -2024,6 +2112,7 @@
     },
   },
   "Italy": {
+    "Country": "Italy",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2047,6 +2136,7 @@
     },
   },
   "Ivory Coast": {
+    "Country": "Ivory Coast",
     "Currency": "XOF",
     "Data": {
       "DateRange1": {
@@ -2070,6 +2160,7 @@
     },
   },
   "Jamacia": {
+    "Country": "Jamacia",
     "Currency": "JAMACIAN $",
     "Data": {
       "DateRange1": {
@@ -2093,6 +2184,7 @@
     },
   },
   "Japan": {
+    "Country": "Japan",
     "Currency": "YEN",
     "Data": {
       "DateRange1": {
@@ -2116,6 +2208,7 @@
     },
   },
   "Jordan": {
+    "Country": "Jordan",
     "Currency": "JORD DINAR",
     "Data": {
       "DateRange1": {
@@ -2139,6 +2232,7 @@
     },
   },
   "Kazakhstan": {
+    "Country": "Kazakhstan",
     "Currency": "TENGE",
     "Data": {
       "DateRange1": {
@@ -2162,6 +2256,7 @@
     },
   },
   "Kenya": {
+    "Country": "Kenya",
     "Currency": "KENYA SHILLING",
     "Data": {
       "DateRange1": {
@@ -2185,6 +2280,7 @@
     },
   },
   "Kiribati": {
+    "Country": "Kiribati",
     "Currency": "AUS $",
     "Data": {
       "DateRange1": {
@@ -2208,6 +2304,7 @@
     },
   },
   "Kosovo": {
+    "Country": "Kosovo",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2231,6 +2328,7 @@
     },
   },
   "Kuwait": {
+    "Country": "Kuwait",
     "Currency": "KUWAIT DINAR",
     "Data": {
       "DateRange1": {
@@ -2254,6 +2352,7 @@
     },
   },
   "Kyrgystan": {
+    "Country": "Kyrgystan",
     "Currency": "SOM",
     "Data": {
       "DateRange1": {
@@ -2277,6 +2376,7 @@
     },
   },
   "Laos": {
+    "Country": "Laos",
     "Currency": "NEW KIP",
     "Data": {
       "DateRange1": {
@@ -2300,6 +2400,7 @@
     },
   },
   "Latvia": {
+    "Country": "Latvia",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2323,6 +2424,7 @@
     },
   },
   "Lebanon ": {
+    "Country": "Lebanon ",
     "Currency": "LEBANESE £",
     "Data": {
       "DateRange1": {
@@ -2346,6 +2448,7 @@
     },
   },
   "Lesotho": {
+    "Country": "Lesotho",
     "Currency": "MALUTI",
     "Data": {
       "DateRange1": {
@@ -2369,6 +2472,7 @@
     },
   },
   "Liberia": {
+    "Country": "Liberia",
     "Currency": "US$",
     "Data": {
       "DateRange1": {
@@ -2392,6 +2496,7 @@
     },
   },
   "Libya": {
+    "Country": "Libya",
     "Currency": "LIBYAN DINAR",
     "Data": {
       "DateRange1": {
@@ -2415,6 +2520,7 @@
     },
   },
   "Lithuania": {
+    "Country": "Lithuania",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2438,6 +2544,7 @@
     },
   },
   "Luxembourg": {
+    "Country": "Luxembourg",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2461,6 +2568,7 @@
     },
   },
   "Macao": {
+    "Country": "Macao",
     "Currency": "HK$",
     "Data": {
       "DateRange1": {
@@ -2484,6 +2592,7 @@
     },
   },
   "Macedonia": {
+    "Country": "Macedonia",
     "Currency": "DENAR",
     "Data": {
       "DateRange1": {
@@ -2507,6 +2616,7 @@
     },
   },
   "Madagascar": {
+    "Country": "Madagascar",
     "Currency": "MG ARIARY",
     "Data": {
       "DateRange1": {
@@ -2530,6 +2640,7 @@
     },
   },
   "Malawi": {
+    "Country": "Malawi",
     "Currency": "KWACHA",
     "Data": {
       "DateRange1": {
@@ -2553,6 +2664,7 @@
     },
   },
   "Malaysia": {
+    "Country": "Malaysia",
     "Currency": "RINGGIT",
     "Data": {
       "DateRange1": {
@@ -2576,6 +2688,7 @@
     },
   },
   "Maldives": {
+    "Country": "Maldives",
     "Currency": "MVR",
     "Data": {
       "DateRange1": {
@@ -2599,6 +2712,7 @@
     },
   },
   "Mali": {
+    "Country": "Mali",
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
@@ -2622,6 +2736,7 @@
     },
   },
   "Malta": {
+    "Country": "Malta",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2645,6 +2760,7 @@
     },
   },
   "Martinque": {
+    "Country": "Martinque",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2668,6 +2784,7 @@
     },
   },
   "Mauritania": {
+    "Country": "Mauritania",
     "Currency": "OUGUIYA",
     "Data": {
       "DateRange1": {
@@ -2691,6 +2808,7 @@
     },
   },
   "Mauritius": {
+    "Country": "Mauritius",
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
@@ -2714,6 +2832,7 @@
     },
   },
   "Mexico": {
+    "Country": "Mexico",
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
@@ -2737,6 +2856,7 @@
     },
   },
   "Moldova": {
+    "Country": "Moldova",
     "Currency": "LEI",
     "Data": {
       "DateRange1": {
@@ -2760,6 +2880,7 @@
     },
   },
   "Mongolia": {
+    "Country": "Mongolia",
     "Currency": "TUGRIK",
     "Data": {
       "DateRange1": {
@@ -2783,6 +2904,7 @@
     },
   },
   "Montenegro": {
+    "Country": "Montenegro",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2806,6 +2928,7 @@
     },
   },
   "Montserrat": {
+    "Country": "Montserrat",
     "Currency": "EAST CARIB $",
     "Data": {
       "DateRange1": {
@@ -2829,6 +2952,7 @@
     },
   },
   "Morocco": {
+    "Country": "Morocco",
     "Currency": "DIRHAM",
     "Data": {
       "DateRange1": {
@@ -2852,6 +2976,7 @@
     },
   },
   "Mozambique": {
+    "Country": "Mozambique",
     "Currency": "METICAL",
     "Data": {
       "DateRange1": {
@@ -2875,6 +3000,7 @@
     },
   },
   "Namibia": {
+    "Country": "Namibia",
     "Currency": "NAMIBIAN $",
     "Data": {
       "DateRange1": {
@@ -2898,6 +3024,7 @@
     },
   },
   "Nepal": {
+    "Country": "Nepal",
     "Currency": "NEPAL RUPEE",
     "Data": {
       "DateRange1": {
@@ -2921,6 +3048,7 @@
     },
   },
   "Netherlands": {
+    "Country": "Netherlands",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -2944,6 +3072,7 @@
     },
   },
   "Netherlands Antilles": {
+    "Country": "Netherlands Antilles",
     "Currency": "ANT GUILDER",
     "Data": {
       "DateRange1": {
@@ -2967,6 +3096,7 @@
     },
   },
   "New Caledonia": {
+    "Country": "New Caledonia",
     "Currency": "CP FRANC",
     "Data": {
       "DateRange1": {
@@ -2990,6 +3120,7 @@
     },
   },
   "New Zealand": {
+    "Country": "New Zealand",
     "Currency": "NZ$",
     "Data": {
       "DateRange1": {
@@ -3013,6 +3144,7 @@
     },
   },
   "Nicaragua": {
+    "Country": "Nicaragua",
     "Currency": "CORDOBA",
     "Data": {
       "DateRange1": {
@@ -3036,6 +3168,7 @@
     },
   },
   "Niger": {
+    "Country": "Niger",
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
@@ -3059,6 +3192,7 @@
     },
   },
   "Nigeria": {
+    "Country": "Nigeria",
     "Currency": "NAIRA",
     "Data": {
       "DateRange1": {
@@ -3082,6 +3216,7 @@
     },
   },
   "Norway": {
+    "Country": "Norway",
     "Currency": "NOR KRONE",
     "Data": {
       "DateRange1": {
@@ -3105,6 +3240,7 @@
     },
   },
   "Oman": {
+    "Country": "Oman",
     "Currency": "OMANI RIAL",
     "Data": {
       "DateRange1": {
@@ -3128,6 +3264,7 @@
     },
   },
   "Pakistan": {
+    "Country": "Pakistan",
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
@@ -3151,6 +3288,7 @@
     },
   },
   "Panama": {
+    "Country": "Panama",
     "Currency": "BALBOA",
     "Data": {
       "DateRange1": {
@@ -3174,6 +3312,7 @@
     },
   },
   "Papua & New Guinea": {
+    "Country": "Papua & New Guinea",
     "Currency": "KINA",
     "Data": {
       "DateRange1": {
@@ -3197,6 +3336,7 @@
     },
   },
   "Paraguay": {
+    "Country": "Paraguay",
     "Currency": "GUARANI",
     "Data": {
       "DateRange1": {
@@ -3220,6 +3360,7 @@
     },
   },
   "Peru": {
+    "Country": "Peru",
     "Currency": "NUEVO SOL",
     "Data": {
       "DateRange1": {
@@ -3243,6 +3384,7 @@
     },
   },
   "Philippines": {
+    "Country": "Philippines",
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
@@ -3266,6 +3408,7 @@
     },
   },
   "Poland": {
+    "Country": "Poland",
     "Currency": "ZLOTY",
     "Data": {
       "DateRange1": {
@@ -3289,6 +3432,7 @@
     },
   },
   "Portugal": {
+    "Country": "Portugal",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -3312,6 +3456,7 @@
     },
   },
   "Puerto Rico": {
+    "Country": "Puerto Rico",
     "Currency": "USD",
     "Data": {
       "DateRange1": {
@@ -3335,6 +3480,7 @@
     },
   },
   "Qatar": {
+    "Country": "Qatar",
     "Currency": "QATAR - RIAL",
     "Data": {
       "DateRange1": {
@@ -3358,6 +3504,7 @@
     },
   },
   "Romania": {
+    "Country": "Romania",
     "Currency": "NEW LEU",
     "Data": {
       "DateRange1": {
@@ -3381,6 +3528,7 @@
     },
   },
   "Russian Federation": {
+    "Country": "Russian Federation",
     "Currency": "ROUBLE",
     "Data": {
       "DateRange1": {
@@ -3404,6 +3552,7 @@
     },
   },
   "Rwanda": {
+    "Country": "Rwanda",
     "Currency": "FRANC",
     "Data": {
       "DateRange1": {
@@ -3427,6 +3576,7 @@
     },
   },
   "Saint Maartin": {
+    "Country": "Saint Maartin",
     "Currency": "x",
     "Data": {
       "DateRange1": {
@@ -3450,6 +3600,7 @@
     },
   },
   "Samoa": {
+    "Country": "Samoa",
     "Currency": "TALA",
     "Data": {
       "DateRange1": {
@@ -3473,6 +3624,7 @@
     },
   },
   "Saudi Arabia": {
+    "Country": "Saudi Arabia",
     "Currency": "SAUDI RIAL",
     "Data": {
       "DateRange1": {
@@ -3496,6 +3648,7 @@
     },
   },
   "Senegal": {
+    "Country": "Senegal",
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
@@ -3519,6 +3672,7 @@
     },
   },
   "Serbia": {
+    "Country": "Serbia",
     "Currency": "DINAR",
     "Data": {
       "DateRange1": {
@@ -3542,6 +3696,7 @@
     },
   },
   "Seychelles": {
+    "Country": "Seychelles",
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
@@ -3565,6 +3720,7 @@
     },
   },
   "Sierra Leone": {
+    "Country": "Sierra Leone",
     "Currency": "LEONE",
     "Data": {
       "DateRange1": {
@@ -3588,6 +3744,7 @@
     },
   },
   "Singapore": {
+    "Country": "Singapore",
     "Currency": "SINGAPORE $",
     "Data": {
       "DateRange1": {
@@ -3611,6 +3768,7 @@
     },
   },
   "Slovakia": {
+    "Country": "Slovakia",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -3634,6 +3792,7 @@
     },
   },
   "Slovenia": {
+    "Country": "Slovenia",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -3657,6 +3816,7 @@
     },
   },
   "Solomon Islands": {
+    "Country": "Solomon Islands",
     "Currency": "SI $",
     "Data": {
       "DateRange1": {
@@ -3680,6 +3840,7 @@
     },
   },
   "South Africa": {
+    "Country": "South Africa",
     "Currency": "RAND",
     "Data": {
       "DateRange1": {
@@ -3703,6 +3864,7 @@
     },
   },
   "South Korea": {
+    "Country": "South Korea",
     "Currency": "KRW",
     "Data": {
       "DateRange1": {
@@ -3726,6 +3888,7 @@
     },
   },
   "South Sudan": {
+    "Country": "South Sudan",
     "Currency": "x",
     "Data": {
       "DateRange1": {
@@ -3749,6 +3912,7 @@
     },
   },
   "Somalia": {
+    "Country": "Somalia",
     "Currency": "x",
     "Data": {
       "DateRange1": {
@@ -3772,6 +3936,7 @@
     },
   },
   "Spain": {
+    "Country": "Spain",
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
@@ -3795,6 +3960,7 @@
     },
   },
   "Sri Lanka": {
+    "Country": "Sri Lanka",
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
@@ -3818,6 +3984,7 @@
     },
   },
   "St Kitts": {
+    "Country": "St Kitts",
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
@@ -3841,6 +4008,7 @@
     },
   },
   "St Lucia": {
+    "Country": "St Lucia",
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
@@ -3864,6 +4032,7 @@
     },
   },
   "St Vincent": {
+    "Country": "St Vincent",
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
@@ -3887,6 +4056,7 @@
     },
   },
   "Sudan": {
+    "Country": "Sudan",
     "Currency": "SUDAN POUND",
     "Data": {
       "DateRange1": {
@@ -3910,6 +4080,7 @@
     },
   },
   "Suriname": {
+    "Country": "Suriname",
     "Currency": "DOLLAR",
     "Data": {
       "DateRange1": {
@@ -3933,6 +4104,7 @@
     },
   },
   "Swaziland (Eswatini)": {
+    "Country": "Swaziland (Eswatini)",
     "Currency": "LILANGENI",
     "Data": {
       "DateRange1": {
@@ -3956,6 +4128,7 @@
     },
   },
   "Sweden": {
+    "Country": "Sweden",
     "Currency": "S KRONA",
     "Data": {
       "DateRange1": {
@@ -3979,6 +4152,7 @@
     },
   },
   "Switzerland": {
+    "Country": "Switzerland",
     "Currency": "SWISS FRANC",
     "Data": {
       "DateRange1": {
@@ -4002,6 +4176,7 @@
     },
   },
   "Syria": {
+    "Country": "Syria",
     "Currency": "SYRIAN £",
     "Data": {
       "DateRange1": {
@@ -4025,6 +4200,7 @@
     },
   },
   "Taiwan": {
+    "Country": "Taiwan",
     "Currency": "TAIWAN $",
     "Data": {
       "DateRange1": {
@@ -4048,6 +4224,7 @@
     },
   },
   "Tajikistan": {
+    "Country": "Tajikistan",
     "Currency": "TJS",
     "Data": {
       "DateRange1": {
@@ -4071,6 +4248,7 @@
     },
   },
   "Tanzania": {
+    "Country": "Tanzania",
     "Currency": "TANZ SHILLING",
     "Data": {
       "DateRange1": {
@@ -4094,6 +4272,7 @@
     },
   },
   "Thailand": {
+    "Country": "Thailand",
     "Currency": "BAHT",
     "Data": {
       "DateRange1": {
@@ -4117,6 +4296,7 @@
     },
   },
   "Togo": {
+    "Country": "Togo",
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
@@ -4140,6 +4320,7 @@
     },
   },
   "Tonga": {
+    "Country": "Tonga",
     "Currency": "TONGAN $",
     "Data": {
       "DateRange1": {
@@ -4163,6 +4344,7 @@
     },
   },
   "Trinidad & Tobago": {
+    "Country": "Trinidad & Tobago",
     "Currency": "T&T $",
     "Data": {
       "DateRange1": {
@@ -4186,6 +4368,7 @@
     },
   },
   "Tunisia": {
+    "Country": "Tunisia",
     "Currency": "DINARS",
     "Data": {
       "DateRange1": {
@@ -4209,6 +4392,7 @@
     },
   },
   "Turkey": {
+    "Country": "Turkey",
     "Currency": "NEW LIRA",
     "Data": {
       "DateRange1": {
@@ -4232,6 +4416,7 @@
     },
   },
   "Turkmenistan": {
+    "Country": "Turkmenistan",
     "Currency": "MANAT",
     "Data": {
       "DateRange1": {
@@ -4255,6 +4440,7 @@
     },
   },
   "Turks & Caicos": {
+    "Country": "Turks & Caicos",
     "Currency": "US$",
     "Data": {
       "DateRange1": {
@@ -4278,6 +4464,7 @@
     },
   },
   "Uganda": {
+    "Country": "Uganda",
     "Currency": "NEW SHILLING",
     "Data": {
       "DateRange1": {
@@ -4301,6 +4488,7 @@
     },
   },
   "Ukraine": {
+    "Country": "Ukraine",
     "Currency": "HRYVNI",
     "Data": {
       "DateRange1": {
@@ -4324,6 +4512,7 @@
     },
   },
   "United Arab Emirates": {
+    "Country": "United Arab Emirates",
     "Currency": "DIRHAMS",
     "Data": {
       "DateRange1": {
@@ -4347,6 +4536,7 @@
     },
   },
   "USA": {
+    "Country": "USA",
     "Currency": "US$",
     "Data": {
       "DateRange1": {
@@ -4370,6 +4560,7 @@
     },
   },
   "Uruguay": {
+    "Country": "Uruguay",
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
@@ -4393,6 +4584,7 @@
     },
   },
   "Uzbekistan": {
+    "Country": "Uzbekistan",
     "Currency": "SUM",
     "Data": {
       "DateRange1": {
@@ -4416,6 +4608,7 @@
     },
   },
   "Vanuatu": {
+    "Country": "Vanuatu",
     "Currency": "VATU",
     "Data": {
       "DateRange1": {
@@ -4439,6 +4632,7 @@
     },
   },
   "Venezuela": {
+    "Country": "Venezuela",
     "Currency": "USD",
     "Data": {
       "DateRange1": {
@@ -4462,6 +4656,7 @@
     },
   },
   "Vietnam": {
+    "Country": "Vietnam",
     "Currency": "DONG",
     "Data": {
       "DateRange1": {
@@ -4485,6 +4680,7 @@
     },
   },
   "Yemen": {
+    "Country": "Yemen",
     "Currency": "USD",
     "Data": {
       "DateRange1": {
@@ -4508,6 +4704,7 @@
     },
   },
   "Zambia": {
+    "Country": "Zambia",
     "Currency": "KWACHA",
     "Data": {
       "DateRange1": {
@@ -4531,6 +4728,7 @@
     },
   },
   "Zimbabwe": {
+    "Country": "Zimbabwe",
     "Currency": "USD",
     "Data": {
       "DateRange1": {
@@ -4554,6 +4752,7 @@
     },
   },
   "": {
+    "Country": "",
     "Currency": "",
     "Data": {
       "DateRange1": {
@@ -4577,6 +4776,7 @@
     },
   },
   "": {
+    "Country": "",
     "Currency": "",
     "Data": {
       "DateRange1": {
@@ -4600,6 +4800,7 @@
     },
   },
   "": {
+    "Country": "",
     "Currency": "",
     "Data": {
       "DateRange1": {
@@ -4623,6 +4824,7 @@
     },
   },
   " ": {
+    "Country": " ",
     "Currency": "",
     "Data": {
       "DateRange1": {
