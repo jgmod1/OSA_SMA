@@ -786,8 +786,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -1050,8 +1050,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": X ,
-        "SMA": X 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -1170,8 +1170,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -1218,8 +1218,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -1458,8 +1458,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -2946,8 +2946,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -3078,7 +3078,7 @@
       "DateRange1": {
         "StartDate": "01/01/2023",
         "EndDate": "30/06/2023",
-        "DaySubsistence": "x",
+        "DaySubsistence": 0,
         "SMA": 0
       },
       "DateRange2": {
@@ -3090,8 +3090,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -3594,8 +3594,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -3738,8 +3738,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": X ,
-        "SMA": X 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -3906,8 +3906,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -3930,8 +3930,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -4194,8 +4194,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -4458,8 +4458,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -4650,8 +4650,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -4698,8 +4698,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   },
@@ -4746,8 +4746,8 @@
       "DateRange3": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
-        "DaySubsistence": x ,
-        "SMA": x 
+        "DaySubsistence": 0 ,
+        "SMA": 0 
       }
     }
   }
