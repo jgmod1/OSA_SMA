@@ -1050,8 +1050,8 @@
       "DateRange3": {
         "StartDate": "01/01/2023",
         "EndDate": "30/06/2023",
-        "DaySubsistence": Not Available,
-        "SMA": Not Available
+        "DaySubsistence": 0,
+        "SMA": 0
       }
     }
   },
@@ -2436,14 +2436,14 @@
       "DateRange2": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": Not Available,
-        "SMA": Not Available
+        "DaySubsistence": 0,
+        "SMA": 0
       },
       "DateRange3": {
         "StartDate": "01/01/2023",
         "EndDate": "30/06/2023",
-        "DaySubsistence": Not Available,
-        "SMA": Not Available
+        "DaySubsistence": 0,
+        "SMA": 0
       }
     }
   },
@@ -3738,8 +3738,8 @@
       "DateRange3": {
         "StartDate": "01/01/2023",
         "EndDate": "30/06/2023",
-        "DaySubsistence": Not Available,
-        "SMA": Not Available
+        "DaySubsistence": 0,
+        "SMA": 0
       }
     }
   },
