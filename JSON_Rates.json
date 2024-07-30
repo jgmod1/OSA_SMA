@@ -4,22 +4,22 @@
     "Currency": "LEK",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 3263.74,
+        "SMA": 2447.8
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 3194.71,
         "SMA": 2396.03
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 3172.51,
         "SMA": 2379.39
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 3133.462045221,
-        "SMA": 2350.09653391575
       }
     }
   },
@@ -28,22 +28,22 @@
     "Currency": "DINAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 5783.36,
+        "SMA": 4337.52
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 5784.1,
         "SMA": 4338.07
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 5619.63,
         "SMA": 4214.72
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 5618.145771708,
-        "SMA": 4213.609328781
       }
     }
   },
@@ -52,22 +52,22 @@
     "Currency": "USD",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 99.91,
+        "SMA": 74.94
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 104.86,
         "SMA": 78.64
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 94.57,
         "SMA": 70.93
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 78.537099651,
-        "SMA": 58.90282473825
       }
     }
   },
@@ -76,22 +76,22 @@
     "Currency": "KWANZA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 47485.39,
+        "SMA": 35614.04
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 43544.52,
         "SMA": 32658.39
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 43628.82,
         "SMA": 32721.61
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 43880.982711807,
-        "SMA": 32910.7370338552
       }
     }
   },
@@ -100,22 +100,22 @@
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 321,
+        "SMA": 241
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 322,
         "SMA": 241
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 298.00,
         "SMA": 223.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 278.620329111,
-        "SMA": 208.96524683325
       }
     }
   },
@@ -124,22 +124,22 @@
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 216,
+        "SMA": 162
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 213,
         "SMA": 160
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 207.00,
         "SMA": 155.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 204.594489111,
-        "SMA": 153.44586683325
       }
     }
   },
@@ -148,22 +148,22 @@
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 42043.99,
+        "SMA": 31532.99
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 20661.89,
         "SMA": 15496.42
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 10499.63,
         "SMA": 7874.72
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 8023.781202759,
-        "SMA": 6017.83590206925
       }
     }
   },
@@ -172,22 +172,22 @@
     "Currency": "DRAM",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 20038.47,
+        "SMA": 15028.85
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 20035.12,
         "SMA": 15026.34
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 20053.20,
         "SMA": 15039.90
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 20107.794773835,
-        "SMA": 15080.8460803763
       }
     }
   },
@@ -196,22 +196,22 @@
     "Currency": "AUS $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 124.81,
+        "SMA": 93.61
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 124.22,
         "SMA": 93.17
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 120.91,
         "SMA": 90.68
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 113.311977144,
-        "SMA": 84.983982858
       }
     }
   },
@@ -220,22 +220,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 71.04,
+        "SMA": 53.28
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 71.06,
         "SMA": 53.3
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 67.14,
         "SMA": 50.35
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 65.6365935,
-        "SMA": 49.227445125
       }
     }
   },
@@ -244,22 +244,22 @@
     "Currency": "MANAT",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 84.3,
+        "SMA": 63.22
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 82.92,
         "SMA": 62.19
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 78.69,
         "SMA": 59.02
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 74.64632946,
-        "SMA": 55.984747095
       }
     }
   },
@@ -268,22 +268,22 @@
     "Currency": "BAHAMA $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 134.3,
+        "SMA": 100.73
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 129.67,
         "SMA": 97.25
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 123.75,
         "SMA": 92.81
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 117.832419651,
-        "SMA": 88.37431473825
       }
     }
   },
@@ -292,22 +292,22 @@
     "Currency": "DINAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 40.1,
+        "SMA": 30.07
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 39.58,
         "SMA": 29.68
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 37.29,
         "SMA": 27.96
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 36.079032294,
-        "SMA": 27.0592742205
       }
     }
   },
@@ -316,22 +316,22 @@
     "Currency": "TAKA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 6447.69,
+        "SMA": 4835.77
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 6258.51,
         "SMA": 4693.88
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 6226.84,
         "SMA": 4670.13
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 6181.668378354,
-        "SMA": 4636.2512837655
       }
     }
   },
@@ -340,22 +340,22 @@
     "Currency": "BARBADOS $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 208.63,
+        "SMA": 156.47
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 208.86,
         "SMA": 156.65
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 208.22,
         "SMA": 156.17
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 206.240899302,
-        "SMA": 154.6806744765
       }
     }
   },
@@ -364,22 +364,22 @@
     "Currency": "ROUBLE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 83.46,
+        "SMA": 62.59
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 79.1,
         "SMA": 59.33
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 82.36,
         "SMA": 61.77
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 81.492819063,
-        "SMA": 61.11961429725
       }
     }
   },
@@ -388,22 +388,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 82.65,
+        "SMA": 61.99
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 81.76,
         "SMA": 61.32
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 80.49,
         "SMA": 60.37
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 75.3177735,
-        "SMA": 56.488330125
       }
     }
   },
@@ -412,22 +412,22 @@
     "Currency": "BZ$ ",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 142.31,
+        "SMA": 106.73
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 138.55,
         "SMA": 103.91
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 132.21,
         "SMA": 99.16
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 128.154289302,
-        "SMA": 96.1157169765
       }
     }
   },
@@ -436,22 +436,22 @@
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 36261.97,
+        "SMA": 27196.48
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 36322.37,
         "SMA": 27241.77
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 35374.83,
         "SMA": 26531.12
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 34509.098288649,
-        "SMA": 25881.8237164868
       }
     }
   },
@@ -460,22 +460,22 @@
     "Currency": "BERMUDA $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 137.02,
+        "SMA": 102.77
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 131.13,
         "SMA": 98.34
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 127.62,
         "SMA": 95.71
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 122.815659651,
-        "SMA": 92.11174473825
       }
     }
   },
@@ -484,22 +484,22 @@
     "Currency": "BOLIVIANO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 318.87,
+        "SMA": 239.15
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 319.76,
         "SMA": 239.82
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 303.22,
         "SMA": 227.42
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 306.1689342,
-        "SMA": 229.62670065
       }
     }
   },
@@ -508,22 +508,22 @@
     "Currency": "MARKA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 70.81,
+        "SMA": 53.11
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 69.25,
         "SMA": 51.94
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 68.20,
         "SMA": 51.15
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 65.630400588,
-        "SMA": 49.222800441
       }
     }
   },
@@ -532,22 +532,22 @@
     "Currency": "PULA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 542.24,
+        "SMA": 406.68
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 545.18,
         "SMA": 408.88
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 509.01,
         "SMA": 381.76
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 462.667822248,
-        "SMA": 347.000866686
       }
     }
   },
@@ -556,22 +556,22 @@
     "Currency": "REAL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 253.85,
+        "SMA": 190.39
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 253.49,
         "SMA": 190.12
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 249.40,
         "SMA": 187.05
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 238.25265105,
-        "SMA": 178.6894882875
       }
     }
   },
@@ -580,22 +580,22 @@
     "Currency": "BRUNEI $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 63.22,
+        "SMA": 47.41
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 63.3,
         "SMA": 47.48
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 65.56,
         "SMA": 49.17
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 66.51975867,
-        "SMA": 49.8898190025
       }
     }
   },
@@ -604,22 +604,22 @@
     "Currency": "LEV",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 81.54,
+        "SMA": 61.15
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 79.95,
         "SMA": 59.96
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 77.97,
         "SMA": 58.48
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 77.478793566,
-        "SMA": 58.1090951745
       }
     }
   },
@@ -628,22 +628,22 @@
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 28192.24,
+        "SMA": 21144.18
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 28252.64,
         "SMA": 21189.48
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 28235.59,
         "SMA": 21176.69
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 27992.494418649,
-        "SMA": 20994.3708139867
       }
     }
   },
@@ -652,22 +652,22 @@
     "Currency": "KYAT",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 77426.36,
+        "SMA": 58069.77
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 70055.23,
         "SMA": 52541.43
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 60594.34,
         "SMA": 45445.75
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 61739.809114626,
-        "SMA": 46304.8568359695
       }
     }
   },
@@ -676,22 +676,22 @@
     "Currency": "BURUNDI FRC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 120625.89,
+        "SMA": 90469.42
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 105275.84,
         "SMA": 78956.88
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 72996.94,
         "SMA": 54747.70
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 73980.89893536,
-        "SMA": 55485.67420152
       }
     }
   },
@@ -700,22 +700,22 @@
     "Currency": "RIEL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 241012.31,
+        "SMA": 180759.23
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 241712.85,
         "SMA": 181284.64
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 231661.51,
         "SMA": 173746.13
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 230070.95,
-        "SMA": 172553.2125
       }
     }
   },
@@ -724,22 +724,22 @@
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 35999.43,
+        "SMA": 26999.57
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 35170.84,
         "SMA": 26378.13
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 35223.31,
         "SMA": 26417.48
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 34556.372498649,
-        "SMA": 25917.2793739867
       }
     }
   },
@@ -748,22 +748,22 @@
     "Currency": "CA$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 121.92,
+        "SMA": 91.44
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 119.02,
         "SMA": 89.27
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 118.23,
         "SMA": 88.68
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 113.014183857,
-        "SMA": 84.76063789275
       }
     }
   },
@@ -772,20 +772,20 @@
     "Currency": "Not Available",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -796,22 +796,22 @@
     "Currency": "Cayman Island $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 86.51,
+        "SMA": 64.88
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 85.6,
         "SMA": 64.2
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 84.44,
         "SMA": 63.33
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 83.413016448,
-        "SMA": 62.559762336
       }
     }
   },
@@ -820,22 +820,22 @@
     "Currency": "CFA Franc",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 37956.48,
+        "SMA": 28467.36
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 38016.88,
         "SMA": 28512.66
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 38079.89,
         "SMA": 28559.92
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 38031.307478649,
-        "SMA": 28523.4806089868
       }
     }
   },
@@ -844,22 +844,22 @@
     "Currency": "PESOS",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 53367.12,
+        "SMA": 40025.34
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 53658.91,
         "SMA": 40244.18
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 51770.37,
         "SMA": 38827.78
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 47868.231322149,
-        "SMA": 35901.1734916118
       }
     }
   },
@@ -868,22 +868,22 @@
     "Currency": "RENMINBI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 500.63,
+        "SMA": 375.47
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 499.9,
         "SMA": 374.92
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 501.26,
         "SMA": 375.94
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 503.22533037,
-        "SMA": 377.4189977775
       }
     }
   },
@@ -892,22 +892,22 @@
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 166894.24,
+        "SMA": 125170.68
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 157566.73,
         "SMA": 118175.05
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 139521.62,
         "SMA": 104641.22
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 134612.069611923,
-        "SMA": 100959.052208942
       }
     }
   },
@@ -916,22 +916,22 @@
     "Currency": "XAF",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 37224.37,
+        "SMA": 27918.27
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 37284.76,
         "SMA": 27963.57
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 36692.15,
         "SMA": 27519.11
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 36643.570238649,
-        "SMA": 27482.6776789868
       }
     }
   },
@@ -940,22 +940,22 @@
     "Currency": "CONGO FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 201824.18,
+        "SMA": 151368.13
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 187648.11,
         "SMA": 140736.08
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 185856.10,
         "SMA": 139392.07
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 173858.251932639,
-        "SMA": 130393.688949479
       }
     }
   },
@@ -964,22 +964,22 @@
     "Currency": "NZ$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 112.66,
+        "SMA": 84.49
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 110.38,
         "SMA": 82.78
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 100.11,
         "SMA": 75.09
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 99.763059222,
-        "SMA": 74.8222944165
       }
     }
   },
@@ -988,22 +988,22 @@
     "Currency": "COLON",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 37952.49,
+        "SMA": 28464.37
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 37624.43,
         "SMA": 28218.32
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 37340.91,
         "SMA": 28005.68
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 36227.764508649,
-        "SMA": 27170.8233814867
       }
     }
   },
@@ -1012,22 +1012,22 @@
     "Currency": "EURO(was KUNA^)",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 52.39,
+        "SMA": 39.29
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 50.32,
         "SMA": 37.74
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 46.41,
         "SMA": 34.81
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 46.1410935,
-        "SMA": 34.605820125
       }
     }
   },
@@ -1036,20 +1036,20 @@
     "Currency": "CUBAN PESO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 6644.9,
+        "SMA": 4983.68
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -1060,22 +1060,22 @@
     "Currency": "ANT GUILDER",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 149.25,
+        "SMA": 111.94
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 137.66,
         "SMA": 103.24
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 137.17,
         "SMA": 102.88
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 136.0428075789,
-        "SMA": 102.032105684175
       }
     }
   },
@@ -1084,22 +1084,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 61.48,
+        "SMA": 46.11
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 61.2,
         "SMA": 45.9
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 60.68,
         "SMA": 45.51
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 59.3409735,
-        "SMA": 44.505730125
       }
     }
   },
@@ -1108,22 +1108,22 @@
     "Currency": "KORUNA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1576.28,
+        "SMA": 1182.21
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1579.03,
         "SMA": 1184.27
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1581.64,
         "SMA": 1186.23
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1409.485055115,
-        "SMA": 1057.11379133625
       }
     }
   },
@@ -1132,22 +1132,22 @@
     "Currency": "KRONE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 825.39,
+        "SMA": 619.04
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 825.37,
         "SMA": 619.02
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 814.45,
         "SMA": 610.84
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 781.662097461,
-        "SMA": 586.24657309575
       }
     }
   },
@@ -1156,20 +1156,20 @@
     "Currency": "Not Available",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -1180,22 +1180,22 @@
     "Currency": " FRANCS",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 12919.62,
+        "SMA": 9689.72
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 12701.62,
         "SMA": 9526.21
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 12159.10,
         "SMA": 9119.32
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 12272.884211922,
-        "SMA": 9204.6631589415
       }
     }
   },
@@ -1204,20 +1204,20 @@
     "Currency": "Not Available",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -1228,22 +1228,22 @@
     "Currency": "DOM PESO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2812.94,
+        "SMA": 2109.71
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2783.17,
         "SMA": 2087.38
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2780.30,
         "SMA": 2085.23
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2805.29515818,
-        "SMA": 2103.971368635
       }
     }
   },
@@ -1252,22 +1252,22 @@
     "Currency": "US$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 52.44,
+        "SMA": 39.33
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 52.16,
         "SMA": 39.12
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 52.14,
         "SMA": 39.10
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 52.698429651,
-        "SMA": 39.52382223825
       }
     }
   },
@@ -1276,22 +1276,22 @@
     "Currency": "US$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 68.07,
+        "SMA": 51.06
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 68.35,
         "SMA": 51.26
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 66.69,
         "SMA": 50.02
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 65.156529651,
-        "SMA": 48.86739723825
       }
     }
   },
@@ -1300,22 +1300,22 @@
     "Currency": "EGYPT £",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1099.84,
+        "SMA": 824.88
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 844.65,
         "SMA": 633.49
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 753.31,
         "SMA": 564.98
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 803.665732527,
-        "SMA": 602.74929939525
       }
     }
   },
@@ -1324,22 +1324,22 @@
     "Currency": "COLON",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 479.58,
+        "SMA": 359.69
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 479.87,
         "SMA": 359.9
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 478.85,
         "SMA": 359.14
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 466,
-        "SMA": 349.5
       }
     }
   },
@@ -1348,22 +1348,22 @@
     "Currency": "XAF",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 41946.37,
+        "SMA": 31459.77
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 42006.76,
         "SMA": 31505.07
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 42450.17,
         "SMA": 31837.63
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 42597.134558649,
-        "SMA": 31947.8509189867
       }
     }
   },
@@ -1372,22 +1372,22 @@
     "Currency": "NAKFA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 703.47,
+        "SMA": 527.61
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 706.83,
         "SMA": 530.12
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 704.73,
         "SMA": 528.55
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 714.263304765,
-        "SMA": 535.69747857375
       }
     }
   },
@@ -1396,22 +1396,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 69.44,
+        "SMA": 52.08
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 63.59,
         "SMA": 47.69
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 58.02,
         "SMA": 43.51
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 57.3058335,
-        "SMA": 42.979375125
       }
     }
   },
@@ -1420,22 +1420,22 @@
     "Currency": "BIRR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2467.98,
+        "SMA": 1850.99
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2280.42,
         "SMA": 1710.31
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1872.12,
         "SMA": 1404.09
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1676.162988702,
-        "SMA": 1257.1222415265
       }
     }
   },
@@ -1444,20 +1444,20 @@
     "Currency": "Not Available",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -1468,22 +1468,22 @@
     "Currency": "FIJI $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 112.59,
+        "SMA": 84.44
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 112.92,
         "SMA": 84.69
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 112.81,
         "SMA": 84.61
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 113.594901546,
-        "SMA": 85.1961761595
       }
     }
   },
@@ -1492,22 +1492,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 94.19,
+        "SMA": 70.64
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 92.88,
         "SMA": 69.66
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 90.67,
         "SMA": 68.01
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 85.3698435,
-        "SMA": 64.027382625
       }
     }
   },
@@ -1516,22 +1516,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 73.7,
+        "SMA": 55.28
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 72.5,
         "SMA": 54.37
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 71.48,
         "SMA": 53.61
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 71.3045535,
-        "SMA": 53.478415125
       }
     }
   },
@@ -1540,22 +1540,22 @@
     "Currency": "XPF",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 10716.67,
+        "SMA": 8037.5
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 10727.66,
         "SMA": 8045.74
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 10526.95,
         "SMA": 7895.21
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 10503.707524167,
-        "SMA": 7877.78064312525
       }
     }
   },
@@ -1564,22 +1564,22 @@
     "Currency": "XAF",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 43959.79,
+        "SMA": 32969.84
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 44020.18,
         "SMA": 33015.13
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 44083.19,
         "SMA": 33062.39
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 44274.765128649,
-        "SMA": 33206.0738464867
       }
     }
   },
@@ -1588,22 +1588,22 @@
     "Currency": "DALASI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2501.38,
+        "SMA": 1876.04
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2263.77,
         "SMA": 1697.83
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2142.11,
         "SMA": 1606.59
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2120.943426273,
-        "SMA": 1590.70756970475
       }
     }
   },
@@ -1612,22 +1612,22 @@
     "Currency": "LARI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 109.38,
+        "SMA": 82.04
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 108.83,
         "SMA": 81.62
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 106.37,
         "SMA": 79.78
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 96.550759059,
-        "SMA": 72.41306929425
       }
     }
   },
@@ -1636,22 +1636,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 67.78,
+        "SMA": 50.83
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 66.87,
         "SMA": 50.15
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 66.3,
         "SMA": 49.73
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 64.7902035,
-        "SMA": 48.592652625
       }
     }
   },
@@ -1660,22 +1660,22 @@
     "Currency": "NEW CEDI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 625.18,
+        "SMA": 468.88
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 620.29,
         "SMA": 465.21
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 612.16,
         "SMA": 459.12
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 387.5902257,
-        "SMA": 290.692669275
       }
     }
   },
@@ -1684,22 +1684,22 @@
     "Currency": "GI£",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 52.55,
+        "SMA": 39.41
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 50.03,
         "SMA": 37.52
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 48.05,
         "SMA": 36.04
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 47.8353,
-        "SMA": 35.876475
       }
     }
   },
@@ -1708,22 +1708,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 69.95,
+        "SMA": 52.47
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 69.32,
         "SMA": 51.99
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 66.12,
         "SMA": 49.59
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 62.3841735,
-        "SMA": 46.788130125
       }
     }
   },
@@ -1732,22 +1732,22 @@
     "Currency": "EAST CARIB $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 190,
+        "SMA": 142
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 188,
         "SMA": 141
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 185,
         "SMA": 139
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 183.967299111,
-        "SMA": 137.97547433325
       }
     }
   },
@@ -1756,22 +1756,22 @@
     "Currency": "EUR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 73.19,
+        "SMA": 54.89
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 72.95,
         "SMA": 54.71
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 72.71,
         "SMA": 54.53
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 72.2555535,
-        "SMA": 54.191665125
       }
     }
   },
@@ -1780,22 +1780,22 @@
     "Currency": "QUETZAL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 525.3,
+        "SMA": 393.98
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 522.89,
         "SMA": 392.17
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 519.01,
         "SMA": 389.25
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 487.289584089,
-        "SMA": 365.46718806675
       }
     }
   },
@@ -1804,22 +1804,22 @@
     "Currency": "GUINEA FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 594080.01,
+        "SMA": 445560.01
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 583540.54,
         "SMA": 437655.4
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 576689.82,
         "SMA": 432517.37
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 581945.953466538,
-        "SMA": 436459.465099904
       }
     }
   },
@@ -1828,22 +1828,22 @@
     "Currency": "GUYANESE $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 15233.76,
+        "SMA": 11425.32
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 12624.71,
         "SMA": 9468.53
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 12356.12,
         "SMA": 9267.09
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 12444.11923488,
-        "SMA": 9333.08942616
       }
     }
   },
@@ -1852,22 +1852,22 @@
     "Currency": "GOURDE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 12671.72,
+        "SMA": 9503.79
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 12309.65,
         "SMA": 9232.24
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 11577.94,
         "SMA": 8683.46
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 9736.430377287,
-        "SMA": 7302.32278296525
       }
     }
   },
@@ -1876,22 +1876,22 @@
     "Currency": "LEMPIRA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1270.04,
+        "SMA": 952.53
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1266.86,
         "SMA": 950.15
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1230.46,
         "SMA": 922.85
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1186.044894765,
-        "SMA": 889.53367107375
       }
     }
   },
@@ -1900,22 +1900,22 @@
     "Currency": "HK$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 806.25,
+        "SMA": 604.69
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 799.38,
         "SMA": 599.54
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 785.8,
         "SMA": 589.35
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 774.368047287,
-        "SMA": 580.77603546525
       }
     }
   },
@@ -1924,22 +1924,22 @@
     "Currency": "FORINT",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 24725.55,
+        "SMA": 18544.16
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 23491.33,
         "SMA": 17618.5
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 23474.7,
         "SMA": 17606.03
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 18383.756288265,
-        "SMA": 13787.8172161987
       }
     }
   },
@@ -1948,22 +1948,22 @@
     "Currency": "KRONA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 15968.34,
+        "SMA": 11976.25
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 15570.15,
         "SMA": 11677.61
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 14101.64,
         "SMA": 10576.23
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 13368.3642003,
-        "SMA": 10026.273150225
       }
     }
   },
@@ -1972,22 +1972,22 @@
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 3006.55,
+        "SMA": 2254.91
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2944.58,
         "SMA": 2208.44
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2875.45,
         "SMA": 2156.59
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2747.267554671,
-        "SMA": 2060.45066600325
       }
     }
   },
@@ -1996,22 +1996,22 @@
     "Currency": "RUPIAH",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 838531.56,
+        "SMA": 628898.67
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 824993.86,
         "SMA": 618745.39
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 803207.43,
         "SMA": 602405.57
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 803140.677639261,
-        "SMA": 602355.508229446
       }
     }
   },
@@ -2020,22 +2020,22 @@
     "Currency": "RIAL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 16383665.69,
+        "SMA": 12287749.27
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 13582741.27,
         "SMA": 10187055.96
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 10950694.92,
         "SMA": 8213021.19
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 8796223.324788,
-        "SMA": 6597167.493591
       }
     }
   },
@@ -2044,22 +2044,22 @@
     "Currency": "Dinar",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 91568.96,
+        "SMA": 68676.72
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 91839.43,
         "SMA": 68879.57
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 91585.14,
         "SMA": 68688.85
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 91577.106899301,
-        "SMA": 68682.8301744757
       }
     }
   },
@@ -2068,22 +2068,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 97.61,
+        "SMA": 73.21
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 93.95,
         "SMA": 70.47
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 87.34,
         "SMA": 65.5
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 79.5116835,
-        "SMA": 59.633762625
       }
     }
   },
@@ -2092,22 +2092,22 @@
     "Currency": "SHEKEL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 377.9,
+        "SMA": 283.43
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 371.07,
         "SMA": 278.3
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 366.82,
         "SMA": 275.12
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 369.800389848,
-        "SMA": 277.350292386
       }
     }
   },
@@ -2116,22 +2116,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 71.68,
+        "SMA": 53.76
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 70.92,
         "SMA": 53.19
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 69.63,
         "SMA": 52.22
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 65.4083535,
-        "SMA": 49.056265125
       }
     }
   },
@@ -2140,22 +2140,22 @@
     "Currency": "XOF",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 47375.7,
+        "SMA": 35531.78
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 47436.09,
         "SMA": 35577.07
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 46257.53,
         "SMA": 34693.15
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 46172.923088649,
-        "SMA": 34629.6923164867
       }
     }
   },
@@ -2164,22 +2164,22 @@
     "Currency": "JAMACIAN $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 8661.56,
+        "SMA": 6496.17
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 8681.59,
         "SMA": 6511.19
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 7904.37,
         "SMA": 5928.28
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 7953.486167142,
-        "SMA": 5965.1146253565
       }
     }
   },
@@ -2188,22 +2188,22 @@
     "Currency": "YEN",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 7279.84,
+        "SMA": 5459.88
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 7216.93,
         "SMA": 5412.7
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 7247.93,
         "SMA": 5435.95
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 7124.343928239,
-        "SMA": 5343.25794617925
       }
     }
   },
@@ -2212,22 +2212,22 @@
     "Currency": "JORD DINAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 65.26,
+        "SMA": 48.95
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 65.21,
         "SMA": 48.91
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 63.99,
         "SMA": 48
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 63.27726711,
-        "SMA": 47.4579503325
       }
     }
   },
@@ -2236,22 +2236,22 @@
     "Currency": "TENGE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 19331.82,
+        "SMA": 14498.86
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 18889.28,
         "SMA": 14166.96
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 18517.8,
         "SMA": 13888.35
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 15576.402820872,
-        "SMA": 11682.302115654
       }
     }
   },
@@ -2260,22 +2260,22 @@
     "Currency": "KENYA SHILLING",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 7320.73,
+        "SMA": 5490.55
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 7092.11,
         "SMA": 5319.08
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 6919.49,
         "SMA": 5189.62
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 5950.831271532,
-        "SMA": 4463.123453649
       }
     }
   },
@@ -2284,22 +2284,22 @@
     "Currency": "AUS $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 55.62,
+        "SMA": 41.71
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 55.67,
         "SMA": 41.76
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 56,
         "SMA": 42
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 56.442177144,
-        "SMA": 42.331632858
       }
     }
   },
@@ -2308,22 +2308,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 27.89,
+        "SMA": 20.92
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 27.93,
         "SMA": 20.94
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 27.84,
         "SMA": 20.88
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 27.9104235,
-        "SMA": 20.932817625
       }
     }
   },
@@ -2332,22 +2332,22 @@
     "Currency": "KUWAIT DINAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 24.52,
+        "SMA": 18.39
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 24.56,
         "SMA": 18.42
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 24.58,
         "SMA": 18.44
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 24.535672566,
-        "SMA": 18.4017544245
       }
     }
   },
@@ -2356,22 +2356,22 @@
     "Currency": "SOM",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2175.06,
+        "SMA": 1631.3
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2181.04,
         "SMA": 1635.78
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2150.47,
         "SMA": 1612.85
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2207.658099795,
-        "SMA": 1655.74357484625
       }
     }
   },
@@ -2380,22 +2380,22 @@
     "Currency": "NEW KIP",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 530388.89,
+        "SMA": 397791.67
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 438469.01,
         "SMA": 328851.76
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 335945.38,
         "SMA": 251959.04
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 305681.371234794,
-        "SMA": 229261.028426096
       }
     }
   },
@@ -2404,22 +2404,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 72.35,
+        "SMA": 54.26
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 71.33,
         "SMA": 53.5
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 61.64,
         "SMA": 46.23
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 61.2429735,
-        "SMA": 45.932230125
       }
     }
   },
@@ -2428,20 +2428,20 @@
     "Currency": "LEBANESE £",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 5111354.6,
+        "SMA": 3833515.95
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 5224629.45,
         "SMA": 3918472.09
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -2452,22 +2452,22 @@
     "Currency": "MALUTI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 486.96,
+        "SMA": 365.22
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 468.77,
         "SMA": 351.58
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 418.49,
         "SMA": 313.87
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 396.17023329,
-        "SMA": 297.1276749675
       }
     }
   },
@@ -2476,22 +2476,22 @@
     "Currency": "US$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 71.35,
+        "SMA": 53.51
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 71.18,
         "SMA": 53.38
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 71.04,
         "SMA": 53.28
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 71.670879651,
-        "SMA": 53.75315973825
       }
     }
   },
@@ -2500,22 +2500,22 @@
     "Currency": "LIBYAN DINAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 90.01,
+        "SMA": 67.51
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 90.32,
         "SMA": 67.74
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 85.67,
         "SMA": 64.25
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 87.159971664,
-        "SMA": 65.369978748
       }
     }
   },
@@ -2524,22 +2524,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 63.32,
+        "SMA": 47.49
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 59.83,
         "SMA": 44.87
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 55.17,
         "SMA": 41.38
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 54.0439035,
-        "SMA": 40.532927625
       }
     }
   },
@@ -2548,22 +2548,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 91.28,
+        "SMA": 68.46
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 85.88,
         "SMA": 64.41
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 83.87,
         "SMA": 62.90
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 82.1364435,
-        "SMA": 61.602332625
       }
     }
   },
@@ -2572,22 +2572,22 @@
     "Currency": "HK$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 618.64,
+        "SMA": 463.98
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 618.39,
         "SMA": 463.79
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 581.54,
         "SMA": 436.15
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 582.173599626,
-        "SMA": 436.6301997195
       }
     }
   },
@@ -2596,22 +2596,22 @@
     "Currency": "DENAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2029.46,
+        "SMA": 1522.1
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2035.47,
         "SMA": 1526.6
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1913.35,
         "SMA": 1435.01
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1940.823255012,
-        "SMA": 1455.617441259
       }
     }
   },
@@ -2620,22 +2620,22 @@
     "Currency": "MG ARIARY",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 112598.18,
+        "SMA": 84448.63
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 101635.33,
         "SMA": 76226.5
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 96803.99,
         "SMA": 72603.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 95165.561868675,
-        "SMA": 71374.1714015062
       }
     }
   },
@@ -2644,22 +2644,22 @@
     "Currency": "KWACHA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 62472.37,
+        "SMA": 46854.28
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 48914.23,
         "SMA": 36685.67
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 44667.79,
         "SMA": 33500.84
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 31383.885598779,
-        "SMA": 23537.9141990843
       }
     }
   },
@@ -2668,22 +2668,22 @@
     "Currency": "RINGGIT",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 173.51,
+        "SMA": 130.14
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 172.89,
         "SMA": 129.67
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 173.66,
         "SMA": 130.24
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 174.572538438,
-        "SMA": 130.9294038285
       }
     }
   },
@@ -2692,22 +2692,22 @@
     "Currency": "MVR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 888.84,
+        "SMA": 666.63
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 838.54,
         "SMA": 628.9
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 805.22,
         "SMA": 603.91
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 815.958091296,
-        "SMA": 611.968568472
       }
     }
   },
@@ -2716,22 +2716,22 @@
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 30854.96,
+        "SMA": 23141.22
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 29964.35,
         "SMA": 22473.26
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 30027.36,
         "SMA": 22520.52
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 29072.450018649,
-        "SMA": 21804.3375139867
       }
     }
   },
@@ -2740,22 +2740,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 66.59,
+        "SMA": 49.94
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 66.68,
         "SMA": 50.01
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 63.86,
         "SMA": 47.89
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 60.8625735,
-        "SMA": 45.646930125
       }
     }
   },
@@ -2764,22 +2764,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 74.86,
+        "SMA": 56.15
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 73.49,
         "SMA": 55.12
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 73.59,
         "SMA": 55.19
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 72.6264435,
-        "SMA": 54.469832625
       }
     }
   },
@@ -2788,22 +2788,22 @@
     "Currency": "OUGUIYA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1438.76,
+        "SMA": 1079.07
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1400.05,
         "SMA": 1050.03
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1389.80,
         "SMA": 1042.35
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1365.121734387,
-        "SMA": 1023.84130079025
       }
     }
   },
@@ -2812,22 +2812,22 @@
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1913.15,
+        "SMA": 1434.86
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1919.43,
         "SMA": 1439.57
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1908.04,
         "SMA": 1431.03
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1934.865734532,
-        "SMA": 1451.149300899
       }
     }
   },
@@ -2836,22 +2836,22 @@
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1104.98,
+        "SMA": 828.73
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1068.84,
         "SMA": 801.63
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1045.99,
         "SMA": 784.49
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 970.820567967,
-        "SMA": 728.11542597525
       }
     }
   },
@@ -2860,22 +2860,22 @@
     "Currency": "LEI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 831.33,
+        "SMA": 623.5
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 792.71,
         "SMA": 594.53
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 741.31,
         "SMA": 555.99
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 726.679809927,
-        "SMA": 545.00985744525
       }
     }
   },
@@ -2884,22 +2884,22 @@
     "Currency": "TUGRIK",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 162479.81,
+        "SMA": 121859.85
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 158710.01,
         "SMA": 119032.51
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 144348.96,
         "SMA": 108261.72
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 119089.991836779,
-        "SMA": 89317.4938775842
       }
     }
   },
@@ -2908,22 +2908,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 40.56,
+        "SMA": 30.42
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 40.18,
         "SMA": 30.13
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 40.16,
         "SMA": 30.12
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 40.2924435,
-        "SMA": 30.219332625
       }
     }
   },
@@ -2932,20 +2932,20 @@
     "Currency": "EAST CARIB $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -2956,22 +2956,22 @@
     "Currency": "DIRHAM",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 564.03,
+        "SMA": 423.02
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 552.69,
         "SMA": 414.52
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 531.52,
         "SMA": 398.64
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 526.236407286,
-        "SMA": 394.6773054645
       }
     }
   },
@@ -2980,22 +2980,22 @@
     "Currency": "METICAL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2946.38,
+        "SMA": 2209.78
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2928.01,
         "SMA": 2196.01
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2701.57,
         "SMA": 2026.18
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2639.676391254,
-        "SMA": 1979.7572934405
       }
     }
   },
@@ -3004,22 +3004,22 @@
     "Currency": "NAMIBIAN $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 547.3,
+        "SMA": 410.48
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 531.92,
         "SMA": 398.94
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 521.69,
         "SMA": 391.27
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 494.604856779,
-        "SMA": 370.95364258425
       }
     }
   },
@@ -3028,22 +3028,22 @@
     "Currency": "NEPAL RUPEE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 4288.17,
+        "SMA": 3216.13
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 4273.59,
         "SMA": 3205.19
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 4266.27,
         "SMA": 3199.70
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 4143.638026878,
-        "SMA": 3107.7285201585
       }
     }
   },
@@ -3052,22 +3052,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 68.9,
+        "SMA": 51.67
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 69.42,
         "SMA": 52.06
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 68.27,
         "SMA": 51.20
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 67.2437835,
-        "SMA": 50.432837625
       }
     }
   },
@@ -3076,20 +3076,20 @@
     "Currency": "ANT GUILDER",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -3100,22 +3100,22 @@
     "Currency": "CP FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 10460.48,
+        "SMA": 7845.36
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 10471.47,
         "SMA": 7853.6
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 10586.25,
         "SMA": 7939.69
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 10319.631964167,
-        "SMA": 7739.72397312525
       }
     }
   },
@@ -3124,22 +3124,22 @@
     "Currency": "NZ$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 110.16,
+        "SMA": 82.62
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 109.71,
         "SMA": 82.28
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 109.94,
         "SMA": 82.45
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 107.760969222,
-        "SMA": 80.8207269165
       }
     }
   },
@@ -3148,22 +3148,22 @@
     "Currency": "CORDOBA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2072.35,
+        "SMA": 1554.27
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2011.91,
         "SMA": 1508.93
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1946.50,
         "SMA": 1459.88
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1761.379604229,
-        "SMA": 1321.03470317175
       }
     }
   },
@@ -3172,22 +3172,22 @@
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 26354.33,
+        "SMA": 19765.75
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 24064.35,
         "SMA": 18048.26
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 23887.20,
         "SMA": 17915.40
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 23838.621518649,
-        "SMA": 17878.9661389868
       }
     }
   },
@@ -3196,22 +3196,22 @@
     "Currency": "NAIRA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 65070.6,
+        "SMA": 48802.95
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 51303.49,
         "SMA": 38477.62
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 35001.21,
         "SMA": 26250.90
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 31254.649621155,
-        "SMA": 23440.9872158663
       }
     }
   },
@@ -3220,22 +3220,22 @@
     "Currency": "NOR KRONE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1093.45,
+        "SMA": 820.09
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1080.69,
         "SMA": 810.52
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1074.51,
         "SMA": 805.88
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1029.805255974,
-        "SMA": 772.3539419805
       }
     }
   },
@@ -3244,22 +3244,22 @@
     "Currency": "OMANI RIAL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 39.4,
+        "SMA": 29.55
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 39.47,
         "SMA": 29.61
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 37.65,
         "SMA": 28.24
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 36.868429815,
-        "SMA": 27.65132236125
       }
     }
   },
@@ -3268,22 +3268,22 @@
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 6407.33,
+        "SMA": 4805.5
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 5985.58,
         "SMA": 4489.19
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 4910.56,
         "SMA": 3682.92
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 4978.244744115,
-        "SMA": 3733.68355808625
       }
     }
   },
@@ -3292,22 +3292,22 @@
     "Currency": "BALBOA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 74.19,
+        "SMA": 55.64
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 72.69,
         "SMA": 54.52
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 71.93,
         "SMA": 53.95
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 67.296279651,
-        "SMA": 50.47220973825
       }
     }
   },
@@ -3316,22 +3316,22 @@
     "Currency": "KINA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 235.96,
+        "SMA": 176.97
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 237.2,
         "SMA": 177.9
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 232.34,
         "SMA": 174.25
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 229.090201608,
-        "SMA": 171.817651206
       }
     }
   },
@@ -3340,22 +3340,22 @@
     "Currency": "GUARANI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 257168.18,
+        "SMA": 192876.14
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 241635.64,
         "SMA": 181226.73
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 242298.50,
         "SMA": 181723.87
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 236111.925745293,
-        "SMA": 177083.94430897
       }
     }
   },
@@ -3364,22 +3364,22 @@
     "Currency": "NUEVO SOL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 198.53,
+        "SMA": 148.89
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 196.93,
         "SMA": 147.7
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 196.83,
         "SMA": 147.62
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 198.320638452,
-        "SMA": 148.740478839
       }
     }
   },
@@ -3388,22 +3388,22 @@
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 3120.59,
+        "SMA": 2340.44
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 3100.06,
         "SMA": 2325.05
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2989.07,
         "SMA": 2241.80
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2794.618557921,
-        "SMA": 2095.96391844075
       }
     }
   },
@@ -3412,22 +3412,22 @@
     "Currency": "ZLOTY",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 236.34,
+        "SMA": 177.26
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 227.34,
         "SMA": 170.5
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 216.10,
         "SMA": 162.08
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 207.947095059,
-        "SMA": 155.96032129425
       }
     }
   },
@@ -3436,22 +3436,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 57.63,
+        "SMA": 43.22
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 57.67,
         "SMA": 43.26
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 55.31,
         "SMA": 41.48
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 49.5551835,
-        "SMA": 37.166387625
       }
     }
   },
@@ -3460,22 +3460,22 @@
     "Currency": "USD",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 82.81,
+        "SMA": 62.1
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 82.95,
         "SMA": 62.21
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 82.09,
         "SMA": 61.56
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 82.578849651,
-        "SMA": 61.93413723825
       }
     }
   },
@@ -3484,22 +3484,22 @@
     "Currency": "QATAR - RIAL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 356.66,
+        "SMA": 267.5
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 259.33,
         "SMA": 194.5
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 346.73,
         "SMA": 260.05
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 345.705501978,
-        "SMA": 259.2791264835
       }
     }
   },
@@ -3508,22 +3508,22 @@
     "Currency": "NEW LEU",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 223.88,
+        "SMA": 167.91
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 222.72,
         "SMA": 167.04
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 200.85,
         "SMA": 150.64
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 191.081423889,
-        "SMA": 143.31106791675
       }
     }
   },
@@ -3532,22 +3532,22 @@
     "Currency": "ROUBLE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 6120.25,
+        "SMA": 4590.19
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 5592.52,
         "SMA": 4194.39
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 5233.65,
         "SMA": 3925.24
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 5189.949381873,
-        "SMA": 3892.46203640475
       }
     }
   },
@@ -3556,22 +3556,22 @@
     "Currency": "FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 40521.92,
+        "SMA": 30391.44
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 39712.34,
         "SMA": 29784.25
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 34867.12,
         "SMA": 26150.34
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 35335.035538677,
-        "SMA": 26501.2766540078
       }
     }
   },
@@ -3580,20 +3580,20 @@
     "Currency": "Not Available",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -3604,22 +3604,22 @@
     "Currency": "TALA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 172.2,
+        "SMA": 129.15
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 172.59,
         "SMA": 129.44
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 172.66,
         "SMA": 129.50
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 174.305567061,
-        "SMA": 130.72917529575
       }
     }
   },
@@ -3628,22 +3628,22 @@
     "Currency": "SAUDI RIAL",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 364.82,
+        "SMA": 273.62
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 365.37,
         "SMA": 274.02
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 361.34,
         "SMA": 271.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 326.811305013,
-        "SMA": 245.10847875975
       }
     }
   },
@@ -3652,22 +3652,22 @@
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 40746.98,
+        "SMA": 30560.24
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 38173.5,
         "SMA": 28630.12
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 37913.17,
         "SMA": 28434.88
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 37072.090838649,
-        "SMA": 27804.0681289868
       }
     }
   },
@@ -3676,22 +3676,22 @@
     "Currency": "DINAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 5776.64,
+        "SMA": 4332.48
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 5487.53,
         "SMA": 4115.65
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 4950.57,
         "SMA": 3712.93
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 4756.943295273,
-        "SMA": 3567.70747145475
       }
     }
   },
@@ -3700,22 +3700,22 @@
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1343.69,
+        "SMA": 1007.77
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1346.67,
         "SMA": 1010
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1338.40,
         "SMA": 1003.80
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1321.933700352,
-        "SMA": 991.450275264
       }
     }
   },
@@ -3724,20 +3724,20 @@
     "Currency": "LEONE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 929.14,
+        "SMA": 696.85
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -3748,22 +3748,22 @@
     "Currency": "SINGAPORE $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 134.33,
+        "SMA": 100.75
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 131.09,
         "SMA": 98.32
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 131.21,
         "SMA": 98.41
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 130.80735867,
-        "SMA": 98.1055190025
       }
     }
   },
@@ -3772,22 +3772,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 68.2,
+        "SMA": 51.15
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 67.27,
         "SMA": 50.45
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 61.92,
         "SMA": 46.44
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 56.0790435,
-        "SMA": 42.059282625
       }
     }
   },
@@ -3796,22 +3796,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 57.26,
+        "SMA": 42.94
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 55.26,
         "SMA": 41.44
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 53.70,
         "SMA": 40.27
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 51.8756235,
-        "SMA": 38.906717625
       }
     }
   },
@@ -3820,22 +3820,22 @@
     "Currency": "SI $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 605.87,
+        "SMA": 454.41
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 606.01,
         "SMA": 454.51
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 605.25,
         "SMA": 453.94
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 612.297253092,
-        "SMA": 459.222939819
       }
     }
   },
@@ -3844,22 +3844,22 @@
     "Currency": "RAND",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 690.66,
+        "SMA": 517.99
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 686.98,
         "SMA": 515.23
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 602.08,
         "SMA": 451.56
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 549.25270329,
-        "SMA": 411.9395274675
       }
     }
   },
@@ -3868,22 +3868,22 @@
     "Currency": "KRW",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 91142.4,
+        "SMA": 68356.8
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 91407.53,
         "SMA": 68555.65
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 91416.04,
         "SMA": 68562.03
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 91292.053313862,
-        "SMA": 68469.0399853965
       }
     }
   },
@@ -3892,20 +3892,20 @@
     "Currency": "Not Available",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -3916,20 +3916,20 @@
     "Currency": "Not Available",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -3940,22 +3940,22 @@
     "Currency": "EURO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 58.46,
+        "SMA": 43.84
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 57.26,
         "SMA": 42.94
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 56.63,
         "SMA": 42.47
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 56.3548335,
-        "SMA": 42.266125125
       }
     }
   },
@@ -3964,22 +3964,22 @@
     "Currency": "RUPEE",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 16120.58,
+        "SMA": 12090.44
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 15998.62,
         "SMA": 11998.96
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 15450.67,
         "SMA": 11588.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 10301.512880703,
-        "SMA": 7726.13466052725
       }
     }
   },
@@ -3988,22 +3988,22 @@
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 160,
+        "SMA": 120
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 160,
         "SMA": 120
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 160.00,
         "SMA": 120.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 161.618799111,
-        "SMA": 121.21409933325
       }
     }
   },
@@ -4012,22 +4012,22 @@
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 225,
+        "SMA": 169
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 225,
         "SMA": 169
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 211.00,
         "SMA": 158.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 197.433459111,
-        "SMA": 148.07509433325
       }
     }
   },
@@ -4036,22 +4036,22 @@
     "Currency": "EC$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 147,
+        "SMA": 110
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 147,
         "SMA": 111
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 149.00,
         "SMA": 112.00
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 153.649419111,
-        "SMA": 115.23706433325
       }
     }
   },
@@ -4060,22 +4060,22 @@
     "Currency": "SUDAN POUND",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 35056.64,
+        "SMA": 26292.48
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 35040.4,
         "SMA": 26280.3
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 34962.44,
         "SMA": 26221.83
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 33365.537117319,
-        "SMA": 25024.1528379892
       }
     }
   },
@@ -4084,22 +4084,22 @@
     "Currency": "DOLLAR",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1740.99,
+        "SMA": 1305.74
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1542.43,
         "SMA": 1156.83
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1217.40,
         "SMA": 913.05
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 962.683213788,
-        "SMA": 722.012410341
       }
     }
   },
@@ -4108,22 +4108,22 @@
     "Currency": "LILANGENI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 545.24,
+        "SMA": 408.93
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 529.67,
         "SMA": 397.26
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 462.00,
         "SMA": 346.50
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 462.45493329,
-        "SMA": 346.8411999675
       }
     }
   },
@@ -4132,22 +4132,22 @@
     "Currency": "S KRONA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 849.51,
+        "SMA": 637.13
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 806.46,
         "SMA": 604.85
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 809.06,
         "SMA": 606.79
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 793.393092342,
-        "SMA": 595.0448192565
       }
     }
   },
@@ -4156,22 +4156,22 @@
     "Currency": "SWISS FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 116.89,
+        "SMA": 87.67
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 113.75,
         "SMA": 85.31
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 113.47,
         "SMA": 85.10
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 112.227108678,
-        "SMA": 84.1703315085
       }
     }
   },
@@ -4180,20 +4180,20 @@
     "Currency": "SYRIAN £",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -4204,22 +4204,22 @@
     "Currency": "TAIWAN $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2082.63,
+        "SMA": 1561.97
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2066.36,
         "SMA": 1549.77
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2073.13,
         "SMA": 1554.85
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2071.958509923,
-        "SMA": 1553.96888244225
       }
     }
   },
@@ -4228,22 +4228,22 @@
     "Currency": "TJS",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 281.99,
+        "SMA": 211.49
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 257.86,
         "SMA": 193.39
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 251.72,
         "SMA": 188.79
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 248.24757546,
-        "SMA": 186.185681595
       }
     }
   },
@@ -4252,22 +4252,22 @@
     "Currency": "TANZ SHILLING",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 99394.91,
+        "SMA": 74546.18
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 100314.67,
         "SMA": 75236
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 100812.50,
         "SMA": 75609.38
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 102393.36594852,
-        "SMA": 76795.02446139
       }
     }
   },
@@ -4276,22 +4276,22 @@
     "Currency": "BAHT",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2096.63,
+        "SMA": 1572.47
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2105.39,
         "SMA": 1579.04
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2114.34,
         "SMA": 1585.75
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2116.756835169,
-        "SMA": 1587.56762637675
       }
     }
   },
@@ -4300,22 +4300,22 @@
     "Currency": "CFA FRANC",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 35781.12,
+        "SMA": 26835.84
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 35841.51,
         "SMA": 26881.13
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 34891.76,
         "SMA": 26168.82
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 34847.311928649,
-        "SMA": 26135.4839464867
       }
     }
   },
@@ -4324,22 +4324,22 @@
     "Currency": "TONGAN $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 119.12,
+        "SMA": 89.34
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 119.43,
         "SMA": 89.58
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 123.64,
         "SMA": 92.73
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 120.216237144,
-        "SMA": 90.162177858
       }
     }
   },
@@ -4348,22 +4348,22 @@
     "Currency": "T&T $",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 610.03,
+        "SMA": 457.52
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 611.04,
         "SMA": 458.28
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 595.96,
         "SMA": 446.97
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 587.973916953,
-        "SMA": 440.98043771475
       }
     }
   },
@@ -4372,22 +4372,22 @@
     "Currency": "DINARS",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 88.81,
+        "SMA": 66.61
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 83.81,
         "SMA": 62.85
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 84.23,
         "SMA": 63.17
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 84.446401578,
-        "SMA": 63.3348011835
       }
     }
   },
@@ -4396,22 +4396,22 @@
     "Currency": "NEW LIRA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1369.68,
+        "SMA": 1027.26
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1117.07,
         "SMA": 837.8
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 758.53,
         "SMA": 568.89
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 718.19243259,
-        "SMA": 538.6443244425
       }
     }
   },
@@ -4420,22 +4420,22 @@
     "Currency": "MANAT",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 567.58,
+        "SMA": 425.69
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 556.31,
         "SMA": 417.23
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 543.71,
         "SMA": 407.78
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 527.082088791,
-        "SMA": 395.31156659325
       }
     }
   },
@@ -4444,22 +4444,22 @@
     "Currency": "US$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 70.52,
         "SMA": 52.89
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 71.157339651,
-        "SMA": 53.36800473825
       }
     }
   },
@@ -4468,22 +4468,22 @@
     "Currency": "NEW SHILLING",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 169670.05,
+        "SMA": 127252.53
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 162456.37,
         "SMA": 121842.28
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 146963.64,
         "SMA": 110222.73
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 148289.31186678,
-        "SMA": 111216.983900085
       }
     }
   },
@@ -4492,22 +4492,22 @@
     "Currency": "HRYVNI",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1468.67,
+        "SMA": 1101.5
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1493.62,
         "SMA": 1120.21
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1377.01,
         "SMA": 1032.76
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1182.88,
-        "SMA": 887.16
       }
     }
   },
@@ -4516,22 +4516,22 @@
     "Currency": "DIRHAMS",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 368.28,
+        "SMA": 276.21
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 365.87,
         "SMA": 274.4
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 366.03,
         "SMA": 274.52
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 369.159032595,
-        "SMA": 276.86927444625
       }
     }
   },
@@ -4540,22 +4540,22 @@
     "Currency": "US$",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 102.66,
+        "SMA": 77
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 99.95,
         "SMA": 74.96
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 97.05,
         "SMA": 72.79
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 94.951359651,
-        "SMA": 71.21351973825
       }
     }
   },
@@ -4564,22 +4564,22 @@
     "Currency": "PESO",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 2497.48,
+        "SMA": 1873.11
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 2385.61,
         "SMA": 1789.21
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 2294.04,
         "SMA": 1720.53
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 2161.859112378,
-        "SMA": 1621.3943342835
       }
     }
   },
@@ -4588,22 +4588,22 @@
     "Currency": "SUM",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 454718.58,
+        "SMA": 341038.94
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 420767.9,
         "SMA": 315575.92
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 334595.73,
         "SMA": 250946.79
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 254823.781439541,
-        "SMA": 191117.836079656
       }
     }
   },
@@ -4612,22 +4612,22 @@
     "Currency": "VATU",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 7982.94,
+        "SMA": 5987.2
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 7998.21,
         "SMA": 5998.66
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 8004.77,
         "SMA": 6003.58
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 8100.08530686,
-        "SMA": 6075.063980145
       }
     }
   },
@@ -4636,20 +4636,20 @@
     "Currency": "USD",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -4660,22 +4660,22 @@
     "Currency": "DONG",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 1092459.26,
+        "SMA": 819344.44
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 1072241.57,
         "SMA": 804181.17
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 1075331.35,
         "SMA": 806498.52
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 1043531.77801512,
-        "SMA": 782648.83351134
       }
     }
   },
@@ -4684,20 +4684,20 @@
     "Currency": "USD",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
@@ -4708,22 +4708,22 @@
     "Currency": "KWACHA",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 870.7,
+        "SMA": 653.02
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 864.17,
         "SMA": 648.13
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
         "DaySubsistence": 889.79,
         "SMA": 667.34
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
-        "DaySubsistence": 908.24119506,
-        "SMA": 681.180896295
       }
     }
   },
@@ -4732,20 +4732,20 @@
     "Currency": "USD",
     "Data": {
       "DateRange1": {
+        "StartDate": "01/07/2024",
+        "EndDate": "31/12/2024",
+        "DaySubsistence": 0,
+        "SMA": 0
+      },
+      "DateRange2": {
         "StartDate": "01/01/2024",
         "EndDate": "30/06/2024",
         "DaySubsistence": 0,
         "SMA": 0
       },
-      "DateRange2": {
+      "DateRange3": {
         "StartDate": "01/07/2023",
         "EndDate": "31/12/2023",
-        "DaySubsistence": 0,
-        "SMA": 0
-      },
-      "DateRange3": {
-        "StartDate": "01/01/2023",
-        "EndDate": "30/06/2023",
         "DaySubsistence": 0,
         "SMA": 0
       }
